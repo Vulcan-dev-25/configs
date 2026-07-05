@@ -1,5 +1,6 @@
 {
  "urlSetting": "https://gmwbui.sb21.net/api/v1/setting?agentId=",
+ "url_hs": "https://api.bakogai.com/gt-stats-be",
  "team": {
   "1925": 164,
   "2053": 771,
