@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updated_at": "2026-08-21T11:59:21.014930Z",
+  "updated_at": "2026-08-22T16:07:42.486804Z",
   "asset_version": "1",
   "environments": {
     "home_uri": "https://web.sun88.win",
@@ -205,7 +205,10 @@
     ],
     "jackpot": [
       "SC",
+      "ONGDO-SUN",
+      "MOMOTARO-SUN",
       "FORTUNE_QILIN-SUN",
+      "FOUR_BEASTS-SUN",
       "FRANKENSTEIN_REVIVAL-SUN",
       "MONKEY_KING-SUN",
       "NEZHA-SUN",
