@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updated_at": "2026-08-22T16:07:42.475443Z",
+  "updated_at": "2026-08-25T10:54:42.865029Z",
   "asset_version": "1",
   "environments": {
     "home_uri": "https://web-s88.sandboxg1.win",
@@ -280,8 +280,8 @@
       "TAI_XIU_MINI-SUN",
       "DRAGON_BALL-SUN",
       "DIAMOND-SUN",
-      "MINI_POKER-SUN",
-      "HI_LO-SUN"
+      "HI_LO-SUN",
+      "MINI_POKER-SUN"
     ],
     "lotto": [
       "ROULETTE_3D-SUN",
@@ -293,6 +293,7 @@
       "SC"
     ],
     "arcade": [
+      "TAI_XIU_MINI-SUN",
       "DRAGON_BALL-SUN",
       "DIAMOND-SUN",
       "HI_LO-SUN",
@@ -2622,6 +2623,9 @@
     "ong do",
     "ongdo",
     "dragon ball",
+    "dragonball",
+    "dragonballs",
+    "dragon balls",
     "na tra",
     "tây du thần khí",
     "tay du than khi",
