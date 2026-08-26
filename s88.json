@@ -20,6 +20,7 @@
   "api_domain": "https://api.ezplace1.net/",
   "sport_domain": "https://sport.ezplace1.net/",
   "ws_sport_domain": "wss://wssport.ezplace1.net/websocket",
+  "ws_mini_game": "wss://websocket.azhkthg1.net/websocket-sticky",
   "main_ws_url": "wss://ws-lby.azhkthg1.net/wsjson",
   "games_url": "https://api100.ezplace1.net/",
   "use_store_detail": true,
