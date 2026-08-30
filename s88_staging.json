@@ -19,6 +19,7 @@
   "host_domain": "https://cfg.ezplace1.net/",
   "api_domain": "https://api.ezplace1.net/",
   "sport_domain": "https://sport.ezplace1.net/",
+  "ws_mini_game": "wss://websocket.azhkthg1.net/websocket-sticky",
   "ws_sport_domain": "wss://wssport.ezplace1.net/websocket",
   "main_ws_url": "wss://ws-card04.azhkthg1.net/websocket",
   "games_url": "https://api100.ezplace1.net/",
