@@ -24,7 +24,7 @@
   "main_ws_url": "wss://ws-lby.azhkthg1.net/wsjson",
   "games_url": "https://api100.ezplace1.net/",
   "use_store_detail": true,
-  "min_patch_force_update_ios": 40,
+  "min_patch_force_update_ios": 41,
   "min_patch_force_update_android": 3,
   "min_patch_force_update": 1,
   "sentry_dsn_web": "https://c3187467a486f78c1c7d2e5071704ffc@sentry-collector.ezplace1.net/17",
