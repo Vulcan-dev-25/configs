@@ -1,0 +1,2742 @@
+{
+  "version": 2,
+  "updated_at": "2026-09-03T13:08:37.302392Z",
+  "asset_version": "1",
+  "environments": {
+    "home_uri": "https://web.sun88.sc",
+    "avenger_uri": "https://avenger.sungame.net",
+    "pirates_uri": "https://haitac.sungame.net",
+    "table_games_uri": "https://tablegame.sungame.net",
+    "aquarium_uri": "https://thuycung.sungame.net",
+    "thantai_uri": "https://thantai.sungame.net",
+    "fish88_uri": "https://fish.sungame.net",
+    "ongdo_uri": "https://ongdo.sungame.net",
+    "momotaro_uri": "https://momotaro.sungame.net",
+    "sicbo_uri": "https://sicbo88.sungame.net",
+    "aviator_uri": "https://aviator.sungame.net",
+    "bingo_mq_uri": "https://bingomaquai.sungame.net",
+    "chan_army_uri": "https://chanarmy.sungame.net",
+    "chan_uri": "https://chan.sungame.net",
+    "coup_uri": "https://coup.sungame.net",
+    "keno_uri": "https://keno.sungame.net",
+    "sicbo_tp_uri": "https://sicbotaiphu.sungame.net",
+    "frankenstein_uri": "https://frankenstein.sungame.net",
+    "nezha_uri": "https://natra.sungame.net",
+    "fortune_qilin_uri": "https://lansinhphuquy.sungame.net",
+    "santa_uri": "https://santahaudau.sungame.net",
+    "monkey_king_uri": "https://tayduthankhi.sungame.net",
+    "four_beasts_uri": "https://tuthanthu.sungame.net",
+    "dragonball_uri": "https://superdragonball.sungame.net",
+    "poker_aof_uri": "https://pokeraof.sungame.net",
+    "roulette_3d_uri": "https://roullet.sungame.net",
+    "tx_live_uri": "https://txlive.sungame.net",
+    "xd_live_uri": "https://xdlive.sungame.net",
+    "xd_tl_uri": "https://xdtl.sungame.net",
+    "xeng_uri": "https://xeng.sungame.net",
+    "xidach_hg_uri": "https://xihoanggia.sungame.net",
+    "baucua_uri": "https://baucua.sungame.net",
+    "baccarat_kt_uri": "https://bacckimtai.sungame.net",
+    "rongho_uri": "https://rongho.sungame.net",
+    "lode_uri": "https://lode.sungame.net",
+    "lodesieutoc_uri": "https://lodesieutoc.sungame.net"
+  },
+  "display_order": [
+    "SC",
+    "SP",
+    "VT",
+    "VTS",
+    "SR",
+    "SRH",
+    "SDG",
+    "SICBO_TP",
+    "SB88",
+    "XD-TL",
+    "TX-LIVE",
+    "XD-LIVE",
+    "BC-LT",
+    "BC-LIVE",
+    "BC",
+    "XD-TT-LIVE",
+    "AVENGER",
+    "PIRATES",
+    "AQUARIUM",
+    "THAN_TAI",
+    "ONGDO-SUN",
+    "MOMOTARO-SUN",
+    "TIENLEN-SUN",
+    "SAM-SUN",
+    "MAUBINH-SUN",
+    "XITO-SUN",
+    "POKER-SUN",
+    "BLACK_JACK-SUN",
+    "PHOM-SUN",
+    "LIENG-SUN",
+    "XOCDIA-SUN",
+    "PKR-AOF",
+    "LODE",
+    "LODE_NHANH",
+    "TAI_XIU_MINI-SUN",
+    "XI_DACH_HG-SUN",
+    "BACCARAT_KT-SUN",
+    "ROULETTE_3D-SUN",
+    "AVIATOR",
+    "BINGO_MQ",
+    "CHAN_ARMY",
+    "CHAN",
+    "COUP",
+    "KENO"
+  ],
+  "display_collections": {
+    "featured": [
+      "SC",
+      "SP",
+      "SICBO_TP",
+      "XD-TL",
+      "SRH",
+      "MOMOTARO-SUN",
+      "ONGDO-SUN",
+      "BACCARAT_KT-SUN",
+      "PKR-AOF",
+      "XI_DACH_HG-SUN",
+      "KENO",
+      "ROULETTE_3D-SUN",
+      "BINGO_MQ",
+      "CHAN",
+      "CHAN_ARMY",
+      "COUP",
+      "SLOT_777-SUN",
+      "FORTUNE_QILIN-SUN",
+      "FOUR_BEASTS-SUN",
+      "FRANKENSTEIN_REVIVAL-SUN",
+      "MONKEY_KING-SUN",
+      "NEZHA-SUN",
+      "CLUMSY_SANTA-SUN",
+      "TAI_XIU_MINI-SUN",
+      "DRAGON_BALL-SUN",
+      "DIAMOND-SUN",
+      "HI_LO-SUN",
+      "MINI_POKER-SUN"
+    ],
+    "popular": [
+      "BACCARAT_KT-SUN",
+      "PKR-AOF",
+      "XI_DACH_HG-SUN",
+      "SC",
+      "KENO",
+      "ROULETTE_3D-SUN",
+      "BINGO_MQ",
+      "CHAN",
+      "CHAN_ARMY",
+      "COUP",
+      "SICBO_TP",
+      "SLOT_777-SUN",
+      "FORTUNE_QILIN-SUN",
+      "FOUR_BEASTS-SUN",
+      "FRANKENSTEIN_REVIVAL-SUN",
+      "MOMOTARO-SUN",
+      "MONKEY_KING-SUN",
+      "NEZHA-SUN",
+      "ONGDO-SUN",
+      "CLUMSY_SANTA-SUN",
+      "SRH",
+      "TAI_XIU_MINI-SUN",
+      "DRAGON_BALL-SUN",
+      "DIAMOND-SUN",
+      "HI_LO-SUN",
+      "MINI_POKER-SUN"
+    ],
+    "new": [
+      "BACCARAT_KT-SUN",
+      "PKR-AOF",
+      "XI_DACH_HG-SUN",
+      "KENO",
+      "ROULETTE_3D-SUN",
+      "BINGO_MQ",
+      "CHAN",
+      "CHAN_ARMY",
+      "COUP",
+      "SICBO_TP",
+      "SLOT_777-SUN",
+      "FORTUNE_QILIN-SUN",
+      "FOUR_BEASTS-SUN",
+      "FRANKENSTEIN_REVIVAL-SUN",
+      "MONKEY_KING-SUN",
+      "NEZHA-SUN",
+      "CLUMSY_SANTA-SUN",
+      "TIENLEN-SUN",
+      "SAM-SUN",
+      "MAUBINH-SUN",
+      "XITO-SUN",
+      "POKER-SUN",
+      "BLACK_JACK-SUN",
+      "PHOM-SUN",
+      "LIENG-SUN",
+      "XOCDIA-SUN",
+      "SRH",
+      "XD-TL",
+      "SB88",
+      "XD-LIVE",
+      "TX-LIVE",
+      "TAI_XIU_MINI-SUN",
+      "DRAGON_BALL-SUN",
+      "DIAMOND-SUN",
+      "HI_LO-SUN",
+      "MINI_POKER-SUN"
+    ],
+    "slots": [
+      "ONGDO-SUN",
+      "MOMOTARO-SUN",
+      "FORTUNE_QILIN-SUN",
+      "FOUR_BEASTS-SUN",
+      "FRANKENSTEIN_REVIVAL-SUN",
+      "MONKEY_KING-SUN",
+      "NEZHA-SUN",
+      "CLUMSY_SANTA-SUN",
+      "DRAGON_BALL-SUN",
+      "MINI_POKER-SUN",
+      "AVENGER",
+      "PIRATES",
+      "AQUARIUM",
+      "THAN_TAI"
+    ],
+    "sports": [
+      "VT",
+      "VTS"
+    ],
+    "jackpot": [
+      "SC",
+      "DRAGON_BALL-SUN",
+      "DIAMOND-SUN",
+      "HI_LO-SUN",
+      "MINI_POKER-SUN",
+      "XD-LIVE",
+      "TX-LIVE",
+      "XD-TL",
+      "ONGDO-SUN",
+      "MOMOTARO-SUN",
+      "FORTUNE_QILIN-SUN",
+      "FOUR_BEASTS-SUN",
+      "FRANKENSTEIN_REVIVAL-SUN",
+      "MONKEY_KING-SUN",
+      "NEZHA-SUN",
+      "CLUMSY_SANTA-SUN",
+      "KENO",
+      "ROULETTE_3D-SUN",
+      "BC-LT",
+      "AVENGER",
+      "PIRATES",
+      "AQUARIUM",
+      "THAN_TAI",
+      "SP",
+      "SR",
+      "XD-TT-LIVE"
+    ],
+    "cards": [
+      "TIENLEN-SUN",
+      "SAM-SUN",
+      "LIENG-SUN",
+      "MAUBINH-SUN",
+      "PHOM-SUN",
+      "XITO-SUN",
+      "POKER-SUN",
+      "PKR-AOF",
+      "XI_DACH_HG-SUN",
+      "BACCARAT_KT-SUN",
+      "BLACK_JACK-SUN"
+    ],
+    "live": [
+      "SB88",
+      "XD-LIVE",
+      "TX-LIVE",
+      "XD-TT-LIVE",
+      "BC-LIVE",
+      "mx-live-001",
+      "mx-live-015",
+      "mx-live-006",
+      "mx-live-009",
+      "baccarat60s",
+      "ltbaccarat",
+      "tx60s",
+      "dt60s",
+      "xd60s",
+      "wwmb",
+      "353",
+      "1",
+      "420",
+      "425",
+      "16",
+      "baccarat",
+      "bacbo",
+      "sicbo",
+      "scalablebetstackerbj",
+      "holdem",
+      "fantan",
+      "dragontiger",
+      "roulette",
+      "moneywheel"
+    ],
+    "dice": [
+      "TAI_XIU_MINI-SUN",
+      "SICBO_TP",
+      "XOCDIA-SUN",
+      "XD-LIVE",
+      "XD-TL",
+      "SB88",
+      "XD-TT-LIVE",
+      "BC-LT",
+      "BC-LIVE",
+      "BC"
+    ],
+    "minigame": [
+      "TAI_XIU_MINI-SUN",
+      "DRAGON_BALL-SUN",
+      "DIAMOND-SUN",
+      "HI_LO-SUN",
+      "MINI_POKER-SUN"
+    ],
+    "lotto": [
+      "ROULETTE_3D-SUN",
+      "KENO",
+      "LODE",
+      "LODE_NHANH"
+    ],
+    "fish": [
+      "SC"
+    ],
+    "arcade": [
+      "TAI_XIU_MINI-SUN",
+      "DRAGON_BALL-SUN",
+      "DIAMOND-SUN",
+      "HI_LO-SUN",
+      "MINI_POKER-SUN"
+    ],
+    "sunwin": [
+      "SC",
+      "SP",
+      "SICBO_TP",
+      "XD-TL",
+      "SRH",
+      "TIENLEN-SUN",
+      "SAM-SUN",
+      "LIENG-SUN",
+      "MAUBINH-SUN",
+      "PHOM-SUN",
+      "XITO-SUN",
+      "POKER-SUN",
+      "PKR-AOF",
+      "XI_DACH_HG-SUN",
+      "BACCARAT_KT-SUN",
+      "BLACK_JACK-SUN",
+      "XOCDIA-SUN",
+      "ROULETTE_3D-SUN",
+      "CHAN",
+      "CHAN_ARMY",
+      "COUP",
+      "KENO",
+      "BINGO_MQ",
+      "MOMOTARO-SUN",
+      "ONGDO-SUN",
+      "SLOT_777-SUN",
+      "FORTUNE_QILIN-SUN",
+      "FOUR_BEASTS-SUN",
+      "FRANKENSTEIN_REVIVAL-SUN",
+      "MONKEY_KING-SUN",
+      "NEZHA-SUN",
+      "CLUMSY_SANTA-SUN",
+      "TAI_XIU_MINI-SUN",
+      "DRAGON_BALL-SUN",
+      "DIAMOND-SUN",
+      "HI_LO-SUN",
+      "MINI_POKER-SUN",
+      "SB88",
+      "XD-LIVE",
+      "TX-LIVE",
+      "VT",
+      "VTS",
+      "SR",
+      "SDG",
+      "BC-LT",
+      "BC-LIVE",
+      "BC",
+      "XD-TT-LIVE",
+      "AVENGER",
+      "PIRATES",
+      "AQUARIUM",
+      "THAN_TAI",
+      "LODE",
+      "LODE_NHANH",
+      "AVIATOR"
+    ]
+  },
+  "lobby": {
+    "translation_key": "txt_game_category_all",
+    "icon": "ic_home.svg",
+    "icon_active": "ic_home_yellow.svg",
+    "sections": [
+      {
+        "title": "Casino nổi bật",
+        "limit": -1,
+        "filter": {
+          "strategy": "collection",
+          "params": {
+            "id": "featured"
+          }
+        }
+      },
+      {
+        "title": "Mới ra mắt",
+        "limit": -1,
+        "filter": {
+          "strategy": "collection",
+          "params": {
+            "id": "new"
+          }
+        }
+      },
+      {
+        "title": "Game Sunwin",
+        "limit": -1,
+        "filter": {
+          "strategy": "collection",
+          "params": {
+            "id": "sunwin"
+          }
+        }
+      },
+      {
+        "banner_id": "providersBanner"
+      },
+      {
+        "title": "Live",
+        "limit": -1,
+        "filter": {
+          "strategy": "collection",
+          "params": {
+            "id": "live"
+          }
+        }
+      },
+      {
+        "title": "Slots",
+        "limit": -1,
+        "filter": {
+          "strategy": "collection",
+          "params": {
+            "id": "slots"
+          }
+        }
+      },
+      {
+        "title": "Game bài",
+        "limit": -1,
+        "filter": {
+          "strategy": "collection",
+          "params": {
+            "id": "cards"
+          }
+        }
+      },
+      {
+        "title": "Jackpots",
+        "limit": -1,
+        "filter": {
+          "strategy": "collection",
+          "params": {
+            "id": "jackpot"
+          }
+        }
+      }
+    ]
+  },
+  "categories": [
+    {
+      "id": "sunwin",
+      "group_key": "priority",
+      "translation_key": "txt_game_category_sunwin",
+      "icon": "ic_sunwin_bw.png",
+      "icon_active": "ic_sunwin.png",
+      "filter": {
+        "strategy": "collection",
+        "params": {
+          "id": "sunwin"
+        }
+      }
+    },
+    {
+      "id": "slots",
+      "group_key": "standard",
+      "translation_key": "txt_game_slots",
+      "icon": "ic_slots.svg",
+      "icon_active": "ic_slots_yellow.svg",
+      "filter": {
+        "strategy": "collection",
+        "params": {
+          "id": "slots"
+        }
+      }
+    },
+    {
+      "id": "sports",
+      "translation_key": "txt_game_sports",
+      "icon": "ic_football.svg",
+      "icon_active": "ic_football_yellow.svg",
+      "filter": {
+        "strategy": "collection",
+        "params": {
+          "id": "sports"
+        }
+      }
+    },
+    {
+      "id": "jackpot",
+      "group_key": "priority",
+      "translation_key": "txt_game_jackpot",
+      "icon": "ic_jackpot.svg",
+      "icon_active": "ic_jackpot_yellow.svg",
+      "filter": {
+        "strategy": "collection",
+        "params": {
+          "id": "jackpot"
+        }
+      }
+    },
+    {
+      "id": "cards",
+      "group_key": "standard",
+      "translation_key": "txt_game_category_cards",
+      "icon": "ic_card.svg",
+      "icon_active": "ic_card_yellow.svg",
+      "filter": {
+        "strategy": "collection",
+        "params": {
+          "id": "cards"
+        }
+      }
+    },
+    {
+      "id": "live",
+      "group_key": "standard",
+      "translation_key": "txt_game_category_live_dealer",
+      "icon": "ic_live.svg",
+      "icon_active": "ic_live_yellow.svg",
+      "filter": {
+        "strategy": "collection",
+        "params": {
+          "id": "live"
+        }
+      }
+    },
+    {
+      "id": "dice",
+      "group_key": "standard",
+      "translation_key": "txt_game_dice",
+      "icon": "ic_dice.svg",
+      "icon_active": "ic_dice_yellow.svg",
+      "filter": {
+        "strategy": "collection",
+        "params": {
+          "id": "dice"
+        }
+      }
+    },
+    {
+      "id": "lotto",
+      "group_key": "standard",
+      "translation_key": "txt_game_category_lotto",
+      "icon": "ic_roulette.svg",
+      "icon_active": "ic_roulette_yellow.svg",
+      "filter": {
+        "strategy": "collection",
+        "params": {
+          "id": "lotto"
+        }
+      }
+    },
+    {
+      "id": "fish",
+      "group_key": "standard",
+      "translation_key": "txt_game_category_fish",
+      "icon": "ic_fish.svg",
+      "icon_active": "ic_fish_yellow.svg",
+      "filter": {
+        "strategy": "collection",
+        "params": {
+          "id": "fish"
+        }
+      }
+    },
+    {
+      "id": "arcade",
+      "group_key": "standard",
+      "translation_key": "txt_game_arcade",
+      "title": "Arcade",
+      "icon": "ic_arcade.svg",
+      "icon_active": "ic_arcade_yellow.svg",
+      "filter": {
+        "strategy": "collection",
+        "params": {
+          "id": "arcade"
+        }
+      }
+    },
+    {
+      "id": "newgames",
+      "group_key": "standard",
+      "translation_key": "txt_game_category_new_games",
+      "icon": "ic_bling.svg",
+      "icon_active": "ic_bling_yellow.svg",
+      "filter": {
+        "strategy": "collection",
+        "params": {
+          "id": "new"
+        }
+      }
+    }
+  ],
+  "in_house_catalog": [
+    {
+      "provider_id": "sunwin",
+      "provider_name": "Sunwin",
+      "product_id": "sunwin_BACCARAT_KT-SUN",
+      "game_code": "BACCARAT_KT-SUN",
+      "game_name": "Baccarat Kim Tài",
+      "image": "sunwin_BACCARAT_KT-SUN_baccarat-kim-tai_thumb.webp",
+      "lang": "vi",
+      "game_type": "card",
+      "mobile_orientation": [
+        "landscape"
+      ],
+      "tablet_orientation": [
+        "landscape"
+      ],
+      "base_url_key": "baccarat_kt_uri",
+      "launch_strategy": "iframe",
+      "enable_host_message": true,
+      "redirect_on_ios_safari_web": true,
+      "redirect_on_mobile_web": true,
+      "game_id": 420,
+      "game_bundle": "BACCARAT_KT-SUN",
+      "load_stop_debounce_ms": 888
+    },
+    {
+      "provider_id": "sunwin",
+      "provider_name": "Sunwin",
+      "product_id": "sunwin_PKR-AOF",
+      "game_code": "PKR-AOF",
+      "game_name": "Poker All-in or Fold",
+      "image": "sunwin_PKR-AOF_poker-all-in-or-fold_thumb.webp",
+      "lang": "vi",
+      "game_type": "card",
+      "mobile_orientation": [
+        "landscape"
+      ],
+      "tablet_orientation": [
+        "landscape"
+      ],
+      "base_url_key": "poker_aof_uri",
+      "launch_strategy": "iframe",
+      "enable_host_message": true,
+      "redirect_on_ios_safari_web": true,
+      "redirect_on_mobile_web": true,
+      "game_id": 426,
+      "game_bundle": "PKR-AOF",
+      "load_stop_debounce_ms": 888
+    },
+    {
+      "provider_id": "sunwin",
+      "provider_name": "Sunwin",
+      "product_id": "sunwin_XI_DACH_HG-SUN",
+      "game_code": "XI_DACH_HG-SUN",
+      "game_name": "Xì dách Hoàng Gia",
+      "image": "sunwin_XI_DACH_HG-SUN_xi-dach-hoang-gia_thumb.webp",
+      "lang": "vi",
+      "game_type": "card",
+      "mobile_orientation": [
+        "landscape"
+      ],
+      "tablet_orientation": [
+        "landscape"
+      ],
+      "base_url_key": "xidach_hg_uri",
+      "launch_strategy": "iframe",
+      "enable_host_message": true,
+      "redirect_on_ios_safari_web": true,
+      "redirect_on_mobile_web": true,
+      "game_id": 422,
+      "game_bundle": "XI_DACH_HG-SUN",
+      "load_stop_debounce_ms": 888
+    },
+    {
+      "provider_id": "sunwin",
+      "provider_name": "Sunwin",
+      "product_id": "sunwin_SC",
+      "game_code": "SC",
+      "game_name": "Sun cá (Bắn cá)",
+      "image": "sunwin_SC_sun-ca_thumb.webp",
+      "lang": "vi",
+      "game_type": "fish",
+      "mobile_orientation": [
+        "landscape"
+      ],
+      "tablet_orientation": [
+        "landscape"
+      ],
+      "base_url_key": "fish88_uri",
+      "launch_strategy": "iframe",
+      "enable_host_message": true,
+      "redirect_on_ios_safari_web": true,
+      "redirect_on_mobile_web": true,
+      "game_id": 400,
+      "game_bundle": "SC"
+    },
+    {
+      "provider_id": "sunwin",
+      "provider_name": "Sunwin",
+      "product_id": "sunwin_KENO",
+      "game_code": "KENO",
+      "game_name": "Keno",
+      "image": "sunwin_KENO_keno_thumb.webp",
+      "lang": "vi",
+      "game_type": "lottery",
+      "mobile_orientation": [
+        "landscape"
+      ],
+      "tablet_orientation": [
+        "landscape"
+      ],
+      "base_url_key": "keno_uri",
+      "launch_strategy": "iframe",
+      "enable_host_message": true,
+      "redirect_on_ios_safari_web": true,
+      "redirect_on_mobile_web": true,
+      "game_id": 415,
+      "game_bundle": "KENO"
+    },
+    {
+      "provider_id": "sunwin",
+      "provider_name": "Sunwin",
+      "product_id": "sunwin_ROULETTE_3D-SUN",
+      "game_code": "ROULETTE_3D-SUN",
+      "game_name": "Roulette 3D",
+      "image": "sunwin_ROULETTE_3D-SUN_roulette-3d_thumb.webp",
+      "lang": "vi",
+      "game_type": "lottery",
+      "mobile_orientation": [
+        "landscape"
+      ],
+      "tablet_orientation": [
+        "landscape"
+      ],
+      "base_url_key": "roulette_3d_uri",
+      "launch_strategy": "iframe",
+      "enable_host_message": true,
+      "redirect_on_ios_safari_web": true,
+      "redirect_on_mobile_web": true,
+      "game_id": 427,
+      "game_bundle": "ROULETTE_3D-SUN"
+    },
+    {
+      "provider_id": "sunwin",
+      "provider_name": "Sunwin",
+      "product_id": "sunwin_BINGO_MQ",
+      "game_code": "BINGO_MQ",
+      "game_name": "Bingo Ma Quái",
+      "image": "sunwin_BINGO_MQ_bingo-ma-quai_thumb.webp",
+      "lang": "vi",
+      "game_type": "others",
+      "mobile_orientation": [
+        "landscape"
+      ],
+      "tablet_orientation": [
+        "landscape"
+      ],
+      "base_url_key": "bingo_mq_uri",
+      "launch_strategy": "iframe",
+      "enable_host_message": true,
+      "redirect_on_ios_safari_web": true,
+      "redirect_on_mobile_web": true,
+      "game_bundle": "BINGO_MQ"
+    },
+    {
+      "provider_id": "sunwin",
+      "provider_name": "Sunwin",
+      "product_id": "sunwin_CHAN",
+      "game_code": "CHAN",
+      "game_name": "Chắn",
+      "image": "sunwin_CHAN_chan_thumb.webp",
+      "lang": "vi",
+      "game_type": "others",
+      "mobile_orientation": [
+        "landscape"
+      ],
+      "tablet_orientation": [
+        "landscape"
+      ],
+      "base_url_key": "chan_uri",
+      "launch_strategy": "iframe",
+      "enable_host_message": true,
+      "redirect_on_ios_safari_web": true,
+      "redirect_on_mobile_web": true,
+      "game_id": 408,
+      "game_bundle": "CHAN"
+    },
+    {
+      "provider_id": "sunwin",
+      "provider_name": "Sunwin",
+      "product_id": "sunwin_CHAN_ARMY",
+      "game_code": "CHAN_ARMY",
+      "game_name": "Chắn Army",
+      "image": "sunwin_CHAN_ARMY_chan-army_thumb.webp",
+      "lang": "vi",
+      "game_type": "others",
+      "mobile_orientation": [
+        "landscape"
+      ],
+      "tablet_orientation": [
+        "landscape"
+      ],
+      "base_url_key": "chan_army_uri",
+      "launch_strategy": "iframe",
+      "enable_host_message": true,
+      "redirect_on_ios_safari_web": true,
+      "redirect_on_mobile_web": true,
+      "game_bundle": "CHAN_ARMY"
+    },
+    {
+      "provider_id": "sunwin",
+      "provider_name": "Sunwin",
+      "product_id": "sunwin_COUP",
+      "game_code": "COUP",
+      "game_name": "Coup",
+      "image": "sunwin_COUP_coup_thumb.webp",
+      "lang": "vi",
+      "game_type": "others",
+      "mobile_orientation": [
+        "portrait"
+      ],
+      "tablet_orientation": [
+        "landscape"
+      ],
+      "base_url_key": "coup_uri",
+      "launch_strategy": "iframe",
+      "enable_host_message": true,
+      "redirect_on_ios_safari_web": true,
+      "redirect_on_mobile_web": true,
+      "game_id": 402,
+      "game_bundle": "COUP"
+    },
+    {
+      "provider_id": "sunwin",
+      "provider_name": "Sunwin",
+      "product_id": "sunwin_SICBO_TP",
+      "game_code": "SICBO_TP",
+      "game_name": "Sicbo Tài Phú",
+      "image": "sunwin_SICBO_TP_sicbo-tai-phu_thumb.webp",
+      "lang": "vi",
+      "game_type": "others",
+      "mobile_orientation": [
+        "landscape"
+      ],
+      "tablet_orientation": [
+        "landscape"
+      ],
+      "base_url_key": "sicbo_tp_uri",
+      "launch_strategy": "iframe",
+      "enable_host_message": true,
+      "redirect_on_ios_safari_web": true,
+      "redirect_on_mobile_web": true,
+      "game_id": 407,
+      "game_bundle": "SICBO_TP"
+    },
+    {
+      "provider_id": "sunwin",
+      "provider_name": "Sunwin",
+      "product_id": "sunwin_SLOT_777-SUN",
+      "game_code": "SLOT_777-SUN",
+      "game_name": "Xèng 777",
+      "image": "sunwin_SLOT_777-SUN_slot-777_thumb.webp",
+      "lang": "vi",
+      "game_type": "others",
+      "mobile_orientation": [
+        "landscape"
+      ],
+      "tablet_orientation": [
+        "landscape"
+      ],
+      "base_url_key": "xeng_uri",
+      "launch_strategy": "iframe",
+      "enable_host_message": true,
+      "redirect_on_ios_safari_web": true,
+      "redirect_on_mobile_web": true,
+      "game_id": 404,
+      "game_bundle": "SLOT_777-SUN"
+    },
+    {
+      "provider_id": "sunwin",
+      "provider_name": "Sunwin",
+      "product_id": "sunwin_FRANKENSTEIN_REVIVAL-SUN",
+      "game_code": "FRANKENSTEIN_REVIVAL-SUN",
+      "game_name": "Frankenstein Revival",
+      "image": "sunwin_FRANKENSTEIN_REVIVAL-SUN_frankenstein-revival_thumb.webp",
+      "lang": "vi",
+      "game_type": "slot",
+      "mobile_orientation": [
+        "portrait"
+      ],
+      "tablet_orientation": [
+        "portrait"
+      ],
+      "base_url_key": "frankenstein_uri",
+      "launch_strategy": "iframe",
+      "enable_host_message": true,
+      "redirect_on_ios_safari_web": true,
+      "redirect_on_mobile_web": true,
+      "game_id": 433,
+      "game_bundle": "FRANKENSTEIN_REVIVAL-SUN"
+    },
+    {
+      "provider_id": "sunwin",
+      "provider_name": "Sunwin",
+      "product_id": "sunwin_FORTUNE_QILIN-SUN",
+      "game_code": "FORTUNE_QILIN-SUN",
+      "game_name": "Lân sinh phú quý",
+      "image": "sunwin_FORTUNE_QILIN-SUN_fortune-qilin_thumb.webp",
+      "lang": "vi",
+      "game_type": "slot",
+      "mobile_orientation": [
+        "landscape"
+      ],
+      "tablet_orientation": [
+        "landscape"
+      ],
+      "base_url_key": "fortune_qilin_uri",
+      "launch_strategy": "iframe",
+      "enable_host_message": true,
+      "redirect_on_ios_safari_web": true,
+      "redirect_on_mobile_web": true,
+      "game_id": 330,
+      "game_bundle": "FORTUNE_QILIN-SUN"
+    },
+    {
+      "provider_id": "sunwin",
+      "provider_name": "Sunwin",
+      "product_id": "sunwin_MOMOTARO-SUN",
+      "game_code": "MOMOTARO-SUN",
+      "game_name": "Momotaro",
+      "image": "sunwin_MOMOTARO-SUN_momotaro_thumb.webp",
+      "lang": "vi",
+      "game_type": "slot",
+      "mobile_orientation": [
+        "landscape"
+      ],
+      "tablet_orientation": [
+        "landscape"
+      ],
+      "base_url_key": "momotaro_uri",
+      "launch_strategy": "iframe",
+      "enable_host_message": true,
+      "redirect_on_ios_safari_web": true,
+      "redirect_on_mobile_web": true,
+      "game_id": 432,
+      "game_bundle": "MOMOTARO-SUN"
+    },
+    {
+      "provider_id": "sunwin",
+      "provider_name": "Sunwin",
+      "product_id": "sunwin_NEZHA-SUN",
+      "game_code": "NEZHA-SUN",
+      "game_name": "Natra",
+      "image": "sunwin_NEZHA-SUN_nezha_thumb.webp",
+      "lang": "vi",
+      "game_type": "slot",
+      "mobile_orientation": [
+        "landscape"
+      ],
+      "tablet_orientation": [
+        "landscape"
+      ],
+      "base_url_key": "nezha_uri",
+      "launch_strategy": "iframe",
+      "enable_host_message": true,
+      "redirect_on_ios_safari_web": true,
+      "redirect_on_mobile_web": true,
+      "game_id": 421,
+      "game_bundle": "NEZHA-SUN"
+    },
+    {
+      "provider_id": "sunwin",
+      "provider_name": "Sunwin",
+      "product_id": "sunwin_ONGDO-SUN",
+      "game_code": "ONGDO-SUN",
+      "game_name": "Ông Đồ",
+      "image": "sunwin_ONGDO-SUN_ongdo_thumb.webp",
+      "lang": "vi",
+      "game_type": "slot",
+      "mobile_orientation": [
+        "landscape"
+      ],
+      "tablet_orientation": [
+        "landscape"
+      ],
+      "base_url_key": "ongdo_uri",
+      "launch_strategy": "iframe",
+      "enable_host_message": true,
+      "redirect_on_ios_safari_web": true,
+      "redirect_on_mobile_web": true,
+      "game_id": 418,
+      "game_bundle": "ONGDO-SUN"
+    },
+    {
+      "provider_id": "sunwin",
+      "provider_name": "Sunwin",
+      "product_id": "sunwin_CLUMSY_SANTA-SUN",
+      "game_code": "CLUMSY_SANTA-SUN",
+      "game_name": "Santa hậu đậu",
+      "image": "sunwin_CLUMSY_SANTA-SUN_clumsy-santa_thumb.webp",
+      "lang": "vi",
+      "game_type": "slot",
+      "mobile_orientation": [
+        "landscape"
+      ],
+      "tablet_orientation": [
+        "landscape"
+      ],
+      "base_url_key": "santa_uri",
+      "launch_strategy": "iframe",
+      "enable_host_message": true,
+      "redirect_on_ios_safari_web": true,
+      "redirect_on_mobile_web": true,
+      "game_id": 431,
+      "game_bundle": "CLUMSY_SANTA-SUN"
+    },
+    {
+      "provider_id": "sunwin",
+      "provider_name": "Sunwin",
+      "product_id": "sunwin_TAI_XIU_MINI-SUN",
+      "game_code": "TAI_XIU_MINI-SUN",
+      "game_name": "Tài xỉu Mini",
+      "image": "sunwin_TAI_XIU_MINI-SUN_tai-xiu_thumb.webp",
+      "lang": "vi",
+      "game_type": "miniGame",
+      "mobile_orientation": [
+        "landscape"
+      ],
+      "tablet_orientation": [
+        "landscape"
+      ],
+      "launch_strategy": "native",
+      "enable_host_message": true,
+      "redirect_on_ios_safari_web": true,
+      "redirect_on_mobile_web": true,
+      "game_id": 100,
+      "game_bundle": "TAI_XIU_MINI-SUN"
+    },
+    {
+      "provider_id": "sunwin",
+      "provider_name": "Sunwin",
+      "product_id": "sunwin_BLACK_JACK-SUN",
+      "game_code": "BLACK_JACK-SUN",
+      "game_name": "Blackjack",
+      "image": "sunwin_BLACK_JACK-SUN_blackjack_thumb.webp",
+      "lang": "vi",
+      "game_type": "card",
+      "mobile_orientation": [
+        "landscape"
+      ],
+      "tablet_orientation": [
+        "landscape"
+      ],
+      "base_url_key": "table_games_uri",
+      "launch_strategy": "card",
+      "enable_host_message": true,
+      "redirect_on_ios_safari_web": true,
+      "redirect_on_mobile_web": true,
+      "game_id": 13,
+      "game_bundle": "GameBai"
+    },
+    {
+      "provider_id": "sunwin",
+      "provider_name": "Sunwin",
+      "product_id": "sunwin_LIENG-SUN",
+      "game_code": "LIENG-SUN",
+      "game_name": "Liêng",
+      "image": "sunwin_LIENG-SUN_lieng_thumb.webp",
+      "lang": "vi",
+      "game_type": "card",
+      "mobile_orientation": [
+        "landscape"
+      ],
+      "tablet_orientation": [
+        "landscape"
+      ],
+      "base_url_key": "table_games_uri",
+      "launch_strategy": "card",
+      "enable_host_message": true,
+      "redirect_on_ios_safari_web": true,
+      "redirect_on_mobile_web": true,
+      "game_id": 5,
+      "game_bundle": "GameBai"
+    },
+    {
+      "provider_id": "sunwin",
+      "provider_name": "Sunwin",
+      "product_id": "sunwin_MAUBINH-SUN",
+      "game_code": "MAUBINH-SUN",
+      "game_name": "Mậu Binh",
+      "image": "sunwin_MAUBINH-SUN_mau-binh_thumb.webp",
+      "lang": "vi",
+      "game_type": "card",
+      "mobile_orientation": [
+        "landscape"
+      ],
+      "tablet_orientation": [
+        "landscape"
+      ],
+      "base_url_key": "table_games_uri",
+      "launch_strategy": "card",
+      "enable_host_message": true,
+      "redirect_on_ios_safari_web": true,
+      "redirect_on_mobile_web": true,
+      "game_id": 4,
+      "game_bundle": "GameBai"
+    },
+    {
+      "provider_id": "sunwin",
+      "provider_name": "Sunwin",
+      "product_id": "sunwin_PHOM-SUN",
+      "game_code": "PHOM-SUN",
+      "game_name": "Phỏm",
+      "image": "sunwin_PHOM-SUN_phom_thumb.webp",
+      "lang": "vi",
+      "game_type": "card",
+      "mobile_orientation": [
+        "landscape"
+      ],
+      "tablet_orientation": [
+        "landscape"
+      ],
+      "base_url_key": "table_games_uri",
+      "launch_strategy": "card",
+      "enable_host_message": true,
+      "redirect_on_ios_safari_web": true,
+      "redirect_on_mobile_web": true,
+      "game_id": 8,
+      "game_bundle": "GameBai"
+    },
+    {
+      "provider_id": "sunwin",
+      "provider_name": "Sunwin",
+      "product_id": "sunwin_POKER-SUN",
+      "game_code": "POKER-SUN",
+      "game_name": "Poker",
+      "image": "sunwin_POKER-SUN_poker_thumb.webp",
+      "lang": "vi",
+      "game_type": "card",
+      "mobile_orientation": [
+        "landscape"
+      ],
+      "tablet_orientation": [
+        "landscape"
+      ],
+      "base_url_key": "table_games_uri",
+      "launch_strategy": "card",
+      "enable_host_message": true,
+      "redirect_on_ios_safari_web": true,
+      "redirect_on_mobile_web": true,
+      "game_id": 6,
+      "game_bundle": "GameBai"
+    },
+    {
+      "provider_id": "sunwin",
+      "provider_name": "Sunwin",
+      "product_id": "sunwin_SAM-SUN",
+      "game_code": "SAM-SUN",
+      "game_name": "Sâm Lốc",
+      "image": "sunwin_SAM-SUN_sam-loc_thumb.webp",
+      "lang": "vi",
+      "game_type": "card",
+      "mobile_orientation": [
+        "landscape"
+      ],
+      "tablet_orientation": [
+        "landscape"
+      ],
+      "base_url_key": "table_games_uri",
+      "launch_strategy": "card",
+      "enable_host_message": true,
+      "redirect_on_ios_safari_web": true,
+      "redirect_on_mobile_web": true,
+      "game_id": 2,
+      "game_bundle": "GameBai"
+    },
+    {
+      "provider_id": "sunwin",
+      "provider_name": "Sunwin",
+      "product_id": "sunwin_TIENLEN-SUN",
+      "game_code": "TIENLEN-SUN",
+      "game_name": "Tiến Lên",
+      "image": "sunwin_TIENLEN-SUN_tien-len_thumb.webp",
+      "lang": "vi",
+      "game_type": "card",
+      "mobile_orientation": [
+        "landscape"
+      ],
+      "tablet_orientation": [
+        "landscape"
+      ],
+      "base_url_key": "table_games_uri",
+      "launch_strategy": "card",
+      "enable_host_message": true,
+      "redirect_on_ios_safari_web": true,
+      "redirect_on_mobile_web": true,
+      "game_id": 1,
+      "game_bundle": "GameBai"
+    },
+    {
+      "provider_id": "sunwin",
+      "provider_name": "Sunwin",
+      "product_id": "sunwin_XITO-SUN",
+      "game_code": "XITO-SUN",
+      "game_name": "Xì Tố",
+      "image": "sunwin_XITO-SUN_xi-to_thumb.webp",
+      "lang": "vi",
+      "game_type": "card",
+      "mobile_orientation": [
+        "landscape"
+      ],
+      "tablet_orientation": [
+        "landscape"
+      ],
+      "base_url_key": "table_games_uri",
+      "launch_strategy": "card",
+      "enable_host_message": true,
+      "redirect_on_ios_safari_web": true,
+      "redirect_on_mobile_web": true,
+      "game_id": 7,
+      "game_bundle": "GameBai"
+    },
+    {
+      "provider_id": "sunwin",
+      "provider_name": "Sunwin",
+      "product_id": "sunwin_XOCDIA-SUN",
+      "game_code": "XOCDIA-SUN",
+      "game_name": "Xóc Đĩa",
+      "image": "sunwin_XOCDIA-SUN_xoc-dia_thumb.webp",
+      "lang": "vi",
+      "game_type": "dice",
+      "mobile_orientation": [
+        "landscape"
+      ],
+      "tablet_orientation": [
+        "landscape"
+      ],
+      "base_url_key": "table_games_uri",
+      "launch_strategy": "card",
+      "enable_host_message": true,
+      "redirect_on_ios_safari_web": true,
+      "redirect_on_mobile_web": true,
+      "game_id": 9,
+      "game_bundle": "GameBai"
+    },
+    {
+      "provider_id": "sunwin",
+      "provider_name": "Sunwin",
+      "product_id": "sunwin_SB88",
+      "game_code": "SB88",
+      "game_name": "Sicbo88",
+      "image": "sunwin_SB88_sicbo88_thumb.webp",
+      "lang": "vi",
+      "game_type": "live",
+      "mobile_orientation": [
+        "landscape"
+      ],
+      "tablet_orientation": [
+        "landscape"
+      ],
+      "base_url_key": "sicbo_uri",
+      "launch_strategy": "iframeSession",
+      "enable_host_message": true,
+      "redirect_on_ios_safari_web": true,
+      "redirect_on_mobile_web": true,
+      "game_id": 311,
+      "game_bundle": "SB88"
+    },
+    {
+      "provider_id": "sunwin",
+      "provider_name": "Sunwin",
+      "product_id": "sunwin_TX-LIVE",
+      "game_code": "TX-LIVE",
+      "game_name": "Tài Xỉu Live",
+      "image": "sunwin_TX-LIVE_tai-xiu-live_thumb.webp",
+      "lang": "vi",
+      "game_type": "live",
+      "mobile_orientation": [
+        "landscape"
+      ],
+      "tablet_orientation": [
+        "landscape"
+      ],
+      "base_url_key": "tx_live_uri",
+      "launch_strategy": "iframeSession",
+      "enable_host_message": true,
+      "redirect_on_ios_safari_web": true,
+      "redirect_on_mobile_web": true,
+      "game_id": 305,
+      "game_bundle": "TX-LIVE"
+    },
+    {
+      "provider_id": "sunwin",
+      "provider_name": "Sunwin",
+      "product_id": "sunwin_DRAGON_BALL-SUN",
+      "game_code": "DRAGON_BALL-SUN",
+      "game_name": "Dragon Ball",
+      "image": "sunwin_DRAGON_BALL-SUN_dragon-ball_thumb.webp",
+      "lang": "vi",
+      "game_type": "miniGame",
+      "mobile_orientation": [
+        "landscape"
+      ],
+      "tablet_orientation": [
+        "landscape"
+      ],
+      "launch_strategy": "native",
+      "enable_host_message": true,
+      "redirect_on_ios_safari_web": true,
+      "redirect_on_mobile_web": true,
+      "game_id": 219,
+      "game_bundle": "DRAGON_BALL-SUN"
+    },
+    {
+      "provider_id": "sunwin",
+      "provider_name": "Sunwin",
+      "product_id": "sunwin_AVIATOR",
+      "game_code": "AVIATOR",
+      "game_name": "Aviator",
+      "image": "sunwin_AVIATOR_aviator_thumb.webp",
+      "lang": "vi",
+      "game_type": "others",
+      "mobile_orientation": [
+        "landscape"
+      ],
+      "tablet_orientation": [
+        "landscape"
+      ],
+      "base_url_key": "aviator_uri",
+      "launch_strategy": "iframe",
+      "enable_host_message": true,
+      "redirect_on_ios_safari_web": true,
+      "redirect_on_mobile_web": true,
+      "game_bundle": "AVIATOR"
+    },
+    {
+      "provider_id": "sunwin",
+      "provider_name": "Sunwin",
+      "product_id": "sunwin_BC-LT",
+      "game_code": "BC-LT",
+      "game_name": "Bầu Cua Lộc Thú",
+      "image": "sunwin_BC-LT_bau-cua-loc-thu_thumb.webp",
+      "lang": "vi",
+      "game_type": "others",
+      "mobile_orientation": [
+        "landscape"
+      ],
+      "tablet_orientation": [
+        "landscape"
+      ],
+      "launch_strategy": "iframe",
+      "enable_host_message": true,
+      "redirect_on_ios_safari_web": true,
+      "redirect_on_mobile_web": true,
+      "game_id": 16,
+      "game_bundle": "BC-LT"
+    },
+    {
+      "provider_id": "sunwin",
+      "provider_name": "Sunwin",
+      "product_id": "sunwin_BC",
+      "game_code": "BC",
+      "game_name": "Bầu Cua",
+      "image": "sunwin_BC_bau-cua_thumb.webp",
+      "lang": "vi",
+      "game_type": "others",
+      "mobile_orientation": [
+        "landscape"
+      ],
+      "tablet_orientation": [
+        "landscape"
+      ],
+      "base_url_key": "baucua_uri",
+      "launch_strategy": "iframe",
+      "enable_host_message": true,
+      "redirect_on_ios_safari_web": true,
+      "redirect_on_mobile_web": true,
+      "game_id": 12,
+      "game_bundle": "BC"
+    },
+    {
+      "provider_id": "sunwin",
+      "provider_name": "Sunwin",
+      "product_id": "sunwin_AVENGER",
+      "game_code": "AVENGER",
+      "game_name": "Avenger",
+      "image": "sunwin_AVENGER_avenger_thumb.webp",
+      "lang": "vi",
+      "game_type": "slot",
+      "mobile_orientation": [
+        "landscape"
+      ],
+      "tablet_orientation": [
+        "landscape"
+      ],
+      "base_url_key": "avenger_uri",
+      "launch_strategy": "iframe",
+      "enable_host_message": true,
+      "redirect_on_ios_safari_web": true,
+      "redirect_on_mobile_web": true,
+      "game_id": 218,
+      "game_bundle": "AVENGER"
+    },
+    {
+      "provider_id": "sunwin",
+      "provider_name": "Sunwin",
+      "product_id": "sunwin_PIRATES",
+      "game_code": "PIRATES",
+      "game_name": "Hải Tặc",
+      "image": "sunwin_PIRATES_haitac_thumb.webp",
+      "lang": "vi",
+      "game_type": "slot",
+      "mobile_orientation": [
+        "landscape"
+      ],
+      "tablet_orientation": [
+        "landscape"
+      ],
+      "base_url_key": "pirates_uri",
+      "launch_strategy": "iframe",
+      "enable_host_message": true,
+      "redirect_on_ios_safari_web": true,
+      "redirect_on_mobile_web": true,
+      "game_id": 217,
+      "game_bundle": "PIRATES"
+    },
+    {
+      "provider_id": "sunwin",
+      "provider_name": "Sunwin",
+      "product_id": "sunwin_MONKEY_KING-SUN",
+      "game_code": "MONKEY_KING-SUN",
+      "game_name": "Tây Du Thần Khí",
+      "image": "sunwin_MONKEY_KING-SUN_monkey-king_thumb.webp",
+      "lang": "vi",
+      "game_type": "slot",
+      "mobile_orientation": [
+        "portrait"
+      ],
+      "tablet_orientation": [
+        "portrait"
+      ],
+      "base_url_key": "monkey_king_uri",
+      "launch_strategy": "iframe",
+      "enable_host_message": true,
+      "redirect_on_ios_safari_web": true,
+      "redirect_on_mobile_web": true,
+      "game_id": 412,
+      "game_bundle": "MONKEY_KING-SUN"
+    },
+    {
+      "provider_id": "sunwin",
+      "provider_name": "Sunwin",
+      "product_id": "sunwin_THAN_TAI",
+      "game_code": "THAN_TAI",
+      "game_name": "Thần Tài",
+      "image": "sunwin_THAN_TAI_than-tai_thumb.webp",
+      "lang": "vi",
+      "game_type": "slot",
+      "mobile_orientation": [
+        "landscape"
+      ],
+      "tablet_orientation": [
+        "landscape"
+      ],
+      "base_url_key": "thantai_uri",
+      "launch_strategy": "iframe",
+      "enable_host_message": true,
+      "redirect_on_ios_safari_web": true,
+      "redirect_on_mobile_web": true,
+      "game_id": 204,
+      "game_bundle": "THAN_TAI"
+    },
+    {
+      "provider_id": "sunwin",
+      "provider_name": "Sunwin",
+      "product_id": "sunwin_AQUARIUM",
+      "game_code": "AQUARIUM",
+      "game_name": "Thủy Cung",
+      "image": "sunwin_AQUARIUM_thuy-cung_thumb.webp",
+      "lang": "vi",
+      "game_type": "slot",
+      "mobile_orientation": [
+        "landscape"
+      ],
+      "tablet_orientation": [
+        "landscape"
+      ],
+      "base_url_key": "aquarium_uri",
+      "launch_strategy": "iframe",
+      "enable_host_message": true,
+      "redirect_on_ios_safari_web": true,
+      "redirect_on_mobile_web": true,
+      "game_id": 205,
+      "game_bundle": "AQUARIUM"
+    },
+    {
+      "provider_id": "sunwin",
+      "provider_name": "Sunwin",
+      "product_id": "sunwin_FOUR_BEASTS-SUN",
+      "game_code": "FOUR_BEASTS-SUN",
+      "game_name": "Tứ thần thú",
+      "image": "sunwin_FOUR_BEASTS-SUN_four-beasts_thumb.webp",
+      "lang": "vi",
+      "game_type": "slot",
+      "mobile_orientation": [
+        "portrait"
+      ],
+      "tablet_orientation": [
+        "portrait"
+      ],
+      "base_url_key": "four_beasts_uri",
+      "launch_strategy": "iframe",
+      "enable_host_message": true,
+      "redirect_on_ios_safari_web": true,
+      "redirect_on_mobile_web": true,
+      "game_id": 411,
+      "game_bundle": "FOUR_BEASTS-SUN"
+    },
+    {
+      "provider_id": "sunwin",
+      "provider_name": "Sunwin",
+      "product_id": "sunwin_XD-LIVE",
+      "game_code": "XD-LIVE",
+      "game_name": "Xóc Đĩa Live",
+      "image": "sunwin_XD-LIVE_xoc-dia-live_thumb.webp",
+      "lang": "vi",
+      "game_type": "live",
+      "mobile_orientation": [
+        "landscape"
+      ],
+      "tablet_orientation": [
+        "landscape"
+      ],
+      "base_url_key": "xd_live_uri",
+      "launch_strategy": "iframeSession",
+      "enable_host_message": true,
+      "redirect_on_ios_safari_web": true,
+      "redirect_on_mobile_web": true,
+      "game_id": 306,
+      "game_bundle": "XD-LIVE"
+    },
+    {
+      "provider_id": "sunwin",
+      "provider_name": "Sunwin",
+      "product_id": "sunwin_XD-TT-LIVE",
+      "game_code": "XD-TT-LIVE",
+      "game_name": "Xóc Đĩa Thủy Tinh Live",
+      "image": "sunwin_XD-TT-LIVE_xoc-dia-thuy-tinh-live_thumb.webp",
+      "lang": "vi",
+      "game_type": "live",
+      "mobile_orientation": [
+        "landscape"
+      ],
+      "tablet_orientation": [
+        "landscape"
+      ],
+      "launch_strategy": "iframeSession",
+      "enable_host_message": true,
+      "redirect_on_ios_safari_web": true,
+      "redirect_on_mobile_web": true,
+      "game_id": 317,
+      "game_bundle": "XD-TT-LIVE"
+    },
+    {
+      "provider_id": "sunwin",
+      "provider_name": "Sunwin",
+      "product_id": "sunwin_BC-LIVE",
+      "game_code": "BC-LIVE",
+      "game_name": "Bầu Cua Live",
+      "image": "sunwin_BC-LIVE_bau-cua-live_thumb.webp",
+      "lang": "vi",
+      "game_type": "live",
+      "mobile_orientation": [
+        "landscape"
+      ],
+      "tablet_orientation": [
+        "landscape"
+      ],
+      "launch_strategy": "iframe",
+      "enable_host_message": true,
+      "redirect_on_ios_safari_web": true,
+      "redirect_on_mobile_web": true,
+      "game_id": 323,
+      "game_bundle": "BC-LIVE"
+    },
+    {
+      "provider_id": "sunwin",
+      "provider_name": "Sunwin",
+      "product_id": "sunwin_LODE",
+      "game_code": "LODE",
+      "game_name": "Lô Đề",
+      "image": "sunwin_LODE_lo-de_thumb.webp",
+      "lang": "vi",
+      "game_type": "lottery",
+      "mobile_orientation": [
+        "landscape"
+      ],
+      "tablet_orientation": [
+        "landscape"
+      ],
+      "launch_strategy": "native",
+      "enable_host_message": true,
+      "redirect_on_ios_safari_web": true,
+      "redirect_on_mobile_web": true,
+      "game_id": 302,
+      "game_bundle": "LODE"
+    },
+    {
+      "provider_id": "sunwin",
+      "provider_name": "Sunwin",
+      "product_id": "sunwin_LODE_NHANH",
+      "game_code": "LODE_NHANH",
+      "game_name": "Lô Đề Nhanh",
+      "image": "sunwin_LODE_NHANH_lo-de-nhanh_thumb.webp",
+      "lang": "vi",
+      "game_type": "lottery",
+      "mobile_orientation": [
+        "landscape"
+      ],
+      "tablet_orientation": [
+        "landscape"
+      ],
+      "launch_strategy": "native",
+      "enable_host_message": true,
+      "redirect_on_ios_safari_web": true,
+      "redirect_on_mobile_web": true,
+      "game_id": 303,
+      "game_bundle": "LODE_NHANH"
+    },
+    {
+      "provider_id": "sunwin",
+      "provider_name": "Sunwin",
+      "product_id": "sunwin_DIAMOND-SUN",
+      "game_code": "DIAMOND-SUN",
+      "game_name": "Kim cương",
+      "image": "sunwin_DIAMOND-SUN_diamond_thumb.webp",
+      "lang": "vi",
+      "game_type": "miniGame",
+      "mobile_orientation": [
+        "landscape"
+      ],
+      "tablet_orientation": [
+        "landscape"
+      ],
+      "launch_strategy": "native",
+      "enable_host_message": true,
+      "redirect_on_ios_safari_web": true,
+      "redirect_on_mobile_web": true,
+      "game_id": 202,
+      "game_bundle": "DIAMOND-SUN"
+    },
+    {
+      "provider_id": "sunwin",
+      "provider_name": "Sunwin",
+      "product_id": "sunwin_MINI_POKER-SUN",
+      "game_code": "MINI_POKER-SUN",
+      "game_name": "Mini Poker",
+      "image": "sunwin_MINI_POKER-SUN_mini-poker_thumb.webp",
+      "lang": "vi",
+      "game_type": "miniGame",
+      "mobile_orientation": [
+        "landscape"
+      ],
+      "tablet_orientation": [
+        "landscape"
+      ],
+      "launch_strategy": "native",
+      "enable_host_message": true,
+      "redirect_on_ios_safari_web": true,
+      "redirect_on_mobile_web": true,
+      "game_id": 199,
+      "game_bundle": "MINI_POKER-SUN"
+    },
+    {
+      "provider_id": "sunwin",
+      "provider_name": "Sunwin",
+      "product_id": "sunwin_HI_LO-SUN",
+      "game_code": "HI_LO-SUN",
+      "game_name": "Trên dưới",
+      "image": "sunwin_HI_LO-SUN_hi-lo_thumb.webp",
+      "lang": "vi",
+      "game_type": "miniGame",
+      "mobile_orientation": [
+        "landscape"
+      ],
+      "tablet_orientation": [
+        "landscape"
+      ],
+      "launch_strategy": "native",
+      "enable_host_message": true,
+      "redirect_on_ios_safari_web": true,
+      "redirect_on_mobile_web": true,
+      "game_id": 206,
+      "game_bundle": "HI_LO-SUN"
+    },
+    {
+      "provider_id": "sunwin",
+      "provider_name": "Sunwin",
+      "product_id": "sunwin_SDG",
+      "game_code": "SDG",
+      "game_name": "Đá gà",
+      "image": "sunwin_SDG_da-ga_thumb.webp",
+      "lang": "vi",
+      "game_type": "others",
+      "mobile_orientation": [
+        "landscape"
+      ],
+      "tablet_orientation": [
+        "landscape"
+      ],
+      "launch_strategy": "iframe",
+      "enable_host_message": true,
+      "redirect_on_ios_safari_web": true,
+      "redirect_on_mobile_web": true,
+      "game_id": 326,
+      "game_bundle": "SDG"
+    },
+    {
+      "provider_id": "sunwin",
+      "provider_name": "Sunwin",
+      "product_id": "sunwin_SP",
+      "game_code": "SP",
+      "game_name": "Sun phụng",
+      "image": "sunwin_SP_sun-phung_thumb.webp",
+      "lang": "vi",
+      "game_type": "others",
+      "mobile_orientation": [
+        "landscape"
+      ],
+      "tablet_orientation": [
+        "landscape"
+      ],
+      "launch_strategy": "iframe",
+      "enable_host_message": true,
+      "redirect_on_ios_safari_web": true,
+      "redirect_on_mobile_web": true,
+      "game_id": 506,
+      "game_bundle": "SP"
+    },
+    {
+      "provider_id": "sunwin",
+      "provider_name": "Sunwin",
+      "product_id": "sunwin_SR",
+      "game_code": "SR",
+      "game_name": "Sun rồng",
+      "image": "sunwin_SR_sun-rong_thumb.webp",
+      "lang": "vi",
+      "game_type": "others",
+      "mobile_orientation": [
+        "landscape"
+      ],
+      "tablet_orientation": [
+        "landscape"
+      ],
+      "launch_strategy": "iframe",
+      "enable_host_message": true,
+      "redirect_on_ios_safari_web": true,
+      "redirect_on_mobile_web": true,
+      "game_id": 501,
+      "game_bundle": "SR"
+    },
+    {
+      "provider_id": "sunwin",
+      "provider_name": "Sunwin",
+      "product_id": "sunwin_SRH",
+      "game_code": "SRH",
+      "game_name": "Sun rồng hổ",
+      "image": "sunwin_SRH_sun-rong-ho_thumb.webp",
+      "lang": "vi",
+      "game_type": "others",
+      "mobile_orientation": [
+        "landscape"
+      ],
+      "tablet_orientation": [
+        "landscape"
+      ],
+      "launch_strategy": "iframeSession",
+      "enable_host_message": true,
+      "redirect_on_ios_safari_web": true,
+      "redirect_on_mobile_web": true,
+      "base_url_key": "rongho_uri",
+      "game_id": 507,
+      "game_bundle": "SRH"
+    },
+    {
+      "provider_id": "sunwin",
+      "provider_name": "Sunwin",
+      "product_id": "sunwin_XD-TL",
+      "game_code": "XD-TL",
+      "game_name": "Xóc Đĩa Tứ Linh",
+      "image": "sunwin_XD-TL_xoc-dia-tu-linh_thumb.webp",
+      "lang": "vi",
+      "game_type": "others",
+      "mobile_orientation": [
+        "landscape"
+      ],
+      "tablet_orientation": [
+        "landscape"
+      ],
+      "base_url_key": "xd_tl_uri",
+      "launch_strategy": "iframeSession",
+      "enable_host_message": true,
+      "redirect_on_ios_safari_web": true,
+      "redirect_on_mobile_web": true,
+      "game_id": 14,
+      "game_bundle": "XD-TL"
+    },
+    {
+      "provider_id": "sunwin",
+      "provider_name": "Sunwin",
+      "product_id": "sunwin_VT",
+      "game_code": "VT",
+      "game_name": "Volta",
+      "image": "sunwin_VT_volta_thumb.webp",
+      "lang": "vi",
+      "game_type": "sport",
+      "mobile_orientation": [
+        "landscape"
+      ],
+      "tablet_orientation": [
+        "landscape"
+      ],
+      "launch_strategy": "iframe",
+      "enable_host_message": true,
+      "redirect_on_ios_safari_web": true,
+      "redirect_on_mobile_web": true,
+      "game_id": 313,
+      "game_bundle": "VT"
+    },
+    {
+      "provider_id": "sunwin",
+      "provider_name": "Sunwin",
+      "product_id": "sunwin_VTS",
+      "game_code": "VTS",
+      "game_name": "Volta S",
+      "image": "sunwin_VTS_volta-s_thumb.webp",
+      "lang": "vi",
+      "game_type": "sport",
+      "mobile_orientation": [
+        "landscape"
+      ],
+      "tablet_orientation": [
+        "landscape"
+      ],
+      "launch_strategy": "iframe",
+      "enable_host_message": true,
+      "redirect_on_ios_safari_web": true,
+      "redirect_on_mobile_web": true,
+      "game_id": 325,
+      "game_bundle": "VTS"
+    }
+  ],
+  "in_house_visibility": {
+    "BACCARAT_KT-SUN": {
+      "is_visible": true,
+      "status": "active",
+      "provider_tag": "tag_sunwin.webp"
+    },
+    "PKR-AOF": {
+      "is_visible": true,
+      "status": "active",
+      "provider_tag": "tag_sunwin.webp"
+    },
+    "XI_DACH_HG-SUN": {
+      "is_visible": true,
+      "status": "active",
+      "provider_tag": "tag_sunwin.webp"
+    },
+    "SC": {
+      "is_visible": true,
+      "status": "active",
+      "provider_tag": "tag_sunwin.webp"
+    },
+    "KENO": {
+      "is_visible": true,
+      "status": "active",
+      "provider_tag": "tag_sunwin.webp"
+    },
+    "ROULETTE_3D-SUN": {
+      "is_visible": true,
+      "status": "active",
+      "provider_tag": "tag_sunwin.webp"
+    },
+    "BINGO_MQ": {
+      "is_visible": false,
+      "status": "active",
+      "provider_tag": "tag_sunwin.webp"
+    },
+    "CHAN": {
+      "is_visible": true,
+      "status": "active",
+      "provider_tag": "tag_sunwin.webp"
+    },
+    "CHAN_ARMY": {
+      "is_visible": false,
+      "status": "active",
+      "provider_tag": "tag_sunwin.webp"
+    },
+    "COUP": {
+      "is_visible": true,
+      "status": "active",
+      "provider_tag": "tag_sunwin.webp"
+    },
+    "SICBO_TP": {
+      "is_visible": true,
+      "status": "active",
+      "provider_tag": "tag_sunwin.webp"
+    },
+    "SLOT_777-SUN": {
+      "is_visible": true,
+      "status": "active",
+      "provider_tag": "tag_sunwin.webp"
+    },
+    "FORTUNE_QILIN-SUN": {
+      "is_visible": true,
+      "status": "active",
+      "provider_tag": "tag_sunwin.webp"
+    },
+    "FOUR_BEASTS-SUN": {
+      "is_visible": true,
+      "status": "active",
+      "provider_tag": "tag_sunwin.webp"
+    },
+    "FRANKENSTEIN_REVIVAL-SUN": {
+      "is_visible": true,
+      "status": "active",
+      "provider_tag": "tag_sunwin.webp"
+    },
+    "MOMOTARO-SUN": {
+      "is_visible": true,
+      "status": "active",
+      "provider_tag": "tag_sunwin.webp"
+    },
+    "MONKEY_KING-SUN": {
+      "is_visible": true,
+      "status": "active",
+      "provider_tag": "tag_sunwin.webp"
+    },
+    "NEZHA-SUN": {
+      "is_visible": true,
+      "status": "active",
+      "provider_tag": "tag_sunwin.webp"
+    },
+    "ONGDO-SUN": {
+      "is_visible": true,
+      "status": "active",
+      "provider_tag": "tag_sunwin.webp"
+    },
+    "CLUMSY_SANTA-SUN": {
+      "is_visible": true,
+      "status": "active",
+      "provider_tag": "tag_sunwin.webp"
+    },
+    "BLACK_JACK-SUN": {
+      "is_visible": true,
+      "status": "active",
+      "provider_tag": "tag_sunwin.webp"
+    },
+    "LIENG-SUN": {
+      "is_visible": true,
+      "status": "active",
+      "provider_tag": "tag_sunwin.webp"
+    },
+    "MAUBINH-SUN": {
+      "is_visible": true,
+      "status": "active",
+      "provider_tag": "tag_sunwin.webp"
+    },
+    "PHOM-SUN": {
+      "is_visible": true,
+      "status": "active",
+      "provider_tag": "tag_sunwin.webp"
+    },
+    "POKER-SUN": {
+      "is_visible": true,
+      "status": "active",
+      "provider_tag": "tag_sunwin.webp"
+    },
+    "SAM-SUN": {
+      "is_visible": true,
+      "status": "active",
+      "provider_tag": "tag_sunwin.webp"
+    },
+    "TIENLEN-SUN": {
+      "is_visible": true,
+      "status": "active",
+      "provider_tag": "tag_sunwin.webp"
+    },
+    "XITO-SUN": {
+      "is_visible": true,
+      "status": "active",
+      "provider_tag": "tag_sunwin.webp"
+    },
+    "XOCDIA-SUN": {
+      "is_visible": true,
+      "status": "active",
+      "provider_tag": "tag_sunwin.webp"
+    },
+    "SB88": {
+      "is_visible": true,
+      "status": "active",
+      "provider_tag": "tag_sunwin.webp"
+    },
+    "TX-LIVE": {
+      "is_visible": true,
+      "status": "active",
+      "provider_tag": "tag_sunwin.webp"
+    },
+    "DRAGON_BALL-SUN": {
+      "is_visible": true,
+      "status": "active",
+      "provider_tag": "tag_sunwin.webp"
+    },
+    "AVIATOR": {
+      "is_visible": false,
+      "status": "under_development",
+      "tag": "tag_coming_soon.webp",
+      "provider_tag": "tag_sunwin.webp"
+    },
+    "BC-LT": {
+      "is_visible": true,
+      "status": "under_development",
+      "tag": "tag_coming_soon.webp",
+      "provider_tag": "tag_sunwin.webp"
+    },
+    "BC": {
+      "is_visible": true,
+      "status": "under_development",
+      "tag": "tag_coming_soon.webp",
+      "provider_tag": "tag_sunwin.webp"
+    },
+    "AVENGER": {
+      "is_visible": true,
+      "status": "under_development",
+      "tag": "tag_coming_soon.webp",
+      "provider_tag": "tag_sunwin.webp"
+    },
+    "PIRATES": {
+      "is_visible": true,
+      "status": "under_development",
+      "tag": "tag_coming_soon.webp",
+      "provider_tag": "tag_sunwin.webp"
+    },
+    "THAN_TAI": {
+      "is_visible": true,
+      "status": "under_development",
+      "tag": "tag_coming_soon.webp",
+      "provider_tag": "tag_sunwin.webp"
+    },
+    "AQUARIUM": {
+      "is_visible": true,
+      "status": "under_development",
+      "tag": "tag_coming_soon.webp",
+      "provider_tag": "tag_sunwin.webp"
+    },
+    "XD-LIVE": {
+      "is_visible": true,
+      "status": "active",
+      "provider_tag": "tag_sunwin.webp"
+    },
+    "XD-TT-LIVE": {
+      "is_visible": true,
+      "status": "under_development",
+      "tag": "tag_coming_soon.webp",
+      "provider_tag": "tag_sunwin.webp"
+    },
+    "BC-LIVE": {
+      "is_visible": false,
+      "status": "under_development",
+      "tag": "tag_coming_soon.webp",
+      "provider_tag": "tag_sunwin.webp"
+    },
+    "LODE": {
+      "is_visible": true,
+      "status": "under_development",
+      "tag": "tag_coming_soon.webp",
+      "provider_tag": "tag_sunwin.webp"
+    },
+    "LODE_NHANH": {
+      "is_visible": true,
+      "status": "under_development",
+      "tag": "tag_coming_soon.webp",
+      "provider_tag": "tag_sunwin.webp"
+    },
+    "DIAMOND-SUN": {
+      "is_visible": true,
+      "status": "active",
+      "provider_tag": "tag_sunwin.webp"
+    },
+    "MINI_POKER-SUN": {
+      "is_visible": true,
+      "status": "active",
+      "provider_tag": "tag_sunwin.webp"
+    },
+    "TAI_XIU_MINI-SUN": {
+      "is_visible": true,
+      "status": "active",
+      "provider_tag": "tag_sunwin.webp"
+    },
+    "HI_LO-SUN": {
+      "is_visible": true,
+      "status": "active",
+      "provider_tag": "tag_sunwin.webp"
+    },
+    "SDG": {
+      "is_visible": true,
+      "status": "under_development",
+      "tag": "tag_coming_soon.webp",
+      "provider_tag": "tag_sunwin.webp"
+    },
+    "SP": {
+      "is_visible": true,
+      "status": "under_development",
+      "tag": "tag_coming_soon.webp",
+      "provider_tag": "tag_sunwin.webp"
+    },
+    "SR": {
+      "is_visible": true,
+      "status": "under_development",
+      "tag": "tag_coming_soon.webp",
+      "provider_tag": "tag_sunwin.webp"
+    },
+    "SRH": {
+      "is_visible": true,
+      "status": "active",
+      "provider_tag": "tag_sunwin.webp"
+    },
+    "XD-TL": {
+      "is_visible": true,
+      "status": "active",
+      "provider_tag": "tag_sunwin.webp"
+    },
+    "VT": {
+      "is_visible": true,
+      "status": "under_development",
+      "tag": "tag_coming_soon.webp",
+      "provider_tag": "tag_sunwin.webp"
+    },
+    "VTS": {
+      "is_visible": true,
+      "status": "under_development",
+      "tag": "tag_coming_soon.webp",
+      "provider_tag": "tag_sunwin.webp"
+    }
+  },
+  "in_house_search_keywords": {
+    "SC": [
+      "bắn cá",
+      "ban ca",
+      "fishing",
+      "cá",
+      "ca"
+    ],
+    "BC-LT": [
+      "bầu cua",
+      "bau cua",
+      "tôm cua",
+      "tom cua",
+      "lắc",
+      "lac"
+    ],
+    "BC": [
+      "bầu cua",
+      "bau cua",
+      "tôm cua",
+      "tom cua",
+      "lắc",
+      "lac"
+    ],
+    "SB88": [
+      "sicbo",
+      "sic bo",
+      "tài xỉu",
+      "tai xiu",
+      "xúc xắc",
+      "xuc xac"
+    ],
+    "XD-TL": [
+      "xóc đĩa",
+      "xoc dia",
+      "tứ linh",
+      "tu linh"
+    ],
+    "TX-LIVE": [
+      "tài xỉu",
+      "tai xiu",
+      "sic bo",
+      "live"
+    ],
+    "XD-LIVE": [
+      "xóc đĩa",
+      "xoc dia",
+      "live"
+    ],
+    "XD-TT-LIVE": [
+      "xóc đĩa",
+      "xoc dia",
+      "trực tuyến",
+      "truc tuyen"
+    ],
+    "LODE": [
+      "lô đề",
+      "lo de",
+      "xổ số",
+      "xo so",
+      "lottery"
+    ],
+    "LODE_NHANH": [
+      "lô đề nhanh",
+      "lo de nhanh",
+      "lô đề siêu tốc",
+      "lo de sieu toc",
+      "xổ số",
+      "xo so",
+      "lottery"
+    ],
+    "SLOT_777-SUN": [
+      "xèng",
+      "xeng",
+      "slot machine",
+      "máy xèng"
+    ],
+    "AVENGER": [
+      "siêu anh hùng",
+      "sieu anh hung"
+    ],
+    "PIRATES": [
+      "hải tặc",
+      "hai tac",
+      "cướp biển",
+      "cuop bien"
+    ],
+    "AQUARIUM": [
+      "thủy cung",
+      "thuy cung"
+    ],
+    "TIENLEN-SUN": [
+      "tiến lên",
+      "tien len",
+      "thirteen",
+      "tiến lên miền nam"
+    ],
+    "PHOM-SUN": [
+      "phỏm",
+      "phom",
+      "tá lả",
+      "ta la"
+    ],
+    "MAUBINH-SUN": [
+      "mậu binh",
+      "mau binh",
+      "binh xập xám",
+      "binh xap xam"
+    ],
+    "XITO-SUN": [
+      "xì tố",
+      "xi to",
+      "poker hồng kông",
+      "poker hong kong"
+    ],
+    "POKER-SUN": [
+      "poker",
+      "pô ke"
+    ],
+    "SAM-SUN": [
+      "sâm",
+      "sam",
+      "sâm lốc",
+      "sam loc"
+    ],
+    "XOCDIA-SUN": [
+      "xóc đĩa",
+      "xoc dia"
+    ],
+    "LIENG-SUN": [
+      "liêng",
+      "lieng",
+      "3 cây",
+      "ba cây",
+      "ba cay"
+    ],
+    "BLACK_JACK-SUN": [
+      "xì dách",
+      "xi dach",
+      "21",
+      "twenty one"
+    ],
+    "PKR-AOF": [
+      "poker",
+      "all-in or fold",
+      "pô ke"
+    ],
+    "SP": [
+      "sun phụng",
+      "phụng",
+      "phung"
+    ],
+    "VT": [
+      "volta"
+    ],
+    "VTS": [
+      "volta s"
+    ],
+    "SR": [
+      "sun rồng",
+      "rồng",
+      "rong"
+    ]
+  },
+  "external": {
+    "provider_configs": {
+      "amb-vn": {
+        "game_type": "live",
+        "mobile_orientation": [
+          "portrait"
+        ],
+        "tablet_orientation": [
+          "landscape"
+        ],
+        "desktop_orientation": [
+          "all"
+        ],
+        "force_landscape_viewport_on_ipad": null,
+        "open_in_new_tab_on_ios_safari_web": true,
+        "requires_session_guard": true,
+        "scaffold_controls": false,
+        "use_safe_area": true,
+        "load_stop_debounce_ms": 999,
+        "provider_tag": "tag_provider_amb_sexy.webp",
+        "provider_name": "SEXY",
+        "games": [
+          {
+            "game_code": "mx-live-001",
+            "image": "amb-vn_MX-LIVE-001_baccarat-classic_thumb.webp",
+            "product_id": "SEXY",
+            "game_name": "Baccarat Classic",
+            "lang": "vi",
+            "api_game_code": "MX-LIVE-001"
+          },
+          {
+            "game_code": "mx-live-015",
+            "image": "amb-vn_MX-LIVE-015_fish-prawn-crab_thumb.webp",
+            "product_id": "SEXY",
+            "game_name": "Fish Prawn Crab",
+            "lang": "vi",
+            "api_game_code": "MX-LIVE-015"
+          },
+          {
+            "game_code": "mx-live-006",
+            "image": "amb-vn_MX-LIVE-006_dragontiger_thumb.webp",
+            "product_id": "SEXY",
+            "game_name": "DragonTiger",
+            "lang": "vi",
+            "api_game_code": "MX-LIVE-006"
+          },
+          {
+            "game_code": "mx-live-009",
+            "image": "amb-vn_MX-LIVE-009_roulette_thumb.webp",
+            "product_id": "SEXY",
+            "game_name": "Roulette",
+            "lang": "vi",
+            "api_game_code": "MX-LIVE-009"
+          }
+        ]
+      },
+      "via-casino-vn": {
+        "game_type": "live",
+        "mobile_orientation": [
+          "portrait"
+        ],
+        "tablet_orientation": [
+          "portrait"
+        ],
+        "desktop_orientation": [
+          "all"
+        ],
+        "force_landscape_viewport_on_ipad": true,
+        "open_in_new_tab_on_ios_safari_web": true,
+        "requires_session_guard": null,
+        "scaffold_controls": false,
+        "use_safe_area": true,
+        "load_stop_debounce_ms": 999,
+        "provider_tag": "tag_provider_via.webp",
+        "provider_name": "VIA",
+        "games": [
+          {
+            "game_code": "baccarat60s",
+            "image": "via-casino-vn_BACCARAT60S_baccarat_thumb.webp",
+            "product_id": "via-casino-vn",
+            "game_name": "Baccarat",
+            "lang": "vi",
+            "api_game_code": "BACCARAT60S"
+          },
+          {
+            "game_code": "ltbaccarat",
+            "image": "via-casino-vn_LTBACCARAT_lotto-baccarat_thumb.webp",
+            "product_id": "via-casino-vn",
+            "game_name": "Lotto Baccarat",
+            "lang": "vi",
+            "api_game_code": "LTBACCARAT"
+          },
+          {
+            "game_code": "tx60s",
+            "image": "via-casino-vn_TX60S_tai-xiu_thumb.webp",
+            "product_id": "via-casino-vn",
+            "game_name": "Tài Xỉu",
+            "lang": "vi",
+            "api_game_code": "TX60S"
+          },
+          {
+            "game_code": "dt60s",
+            "image": "via-casino-vn_DT60S_rong-ho_thumb.webp",
+            "product_id": "via-casino-vn",
+            "game_name": "Rồng Hổ",
+            "lang": "vi",
+            "api_game_code": "DT60S"
+          },
+          {
+            "game_code": "xd60s",
+            "image": "via-casino-vn_XD60S_xoc-dia_thumb.webp",
+            "product_id": "via-casino-vn",
+            "game_name": "Xóc Dĩa",
+            "lang": "vi",
+            "api_game_code": "XD60S"
+          },
+          {
+            "game_code": "wwmb",
+            "image": "via-casino-vn_WWMB_bi-loc-xoay_thumb.webp",
+            "product_id": "via-casino-vn",
+            "game_name": "Bi Lốc Xoáy",
+            "lang": "vi",
+            "api_game_code": "WWMB"
+          }
+        ]
+      },
+      "vivo": {
+        "game_type": "live",
+        "mobile_orientation": [
+          "portrait"
+        ],
+        "tablet_orientation": [
+          "all"
+        ],
+        "desktop_orientation": [
+          "all"
+        ],
+        "force_landscape_viewport_on_ipad": null,
+        "open_in_new_tab_on_ios_safari_web": true,
+        "requires_session_guard": null,
+        "scaffold_controls": false,
+        "use_safe_area": true,
+        "load_stop_debounce_ms": null,
+        "provider_tag": "tag_provider_vivo.webp",
+        "provider_name": "VIVO",
+        "games": [
+          {
+            "game_code": "353",
+            "image": "vivo_353_baccarat-dance_thumb.webp",
+            "product_id": "baccarat",
+            "game_name": "Baccarat Dance",
+            "lang": "vi"
+          },
+          {
+            "game_code": "1",
+            "image": "vivo_1_galactic-vip-roulette_thumb.webp",
+            "product_id": "roulette",
+            "game_name": "Galactic VIP Roulette",
+            "lang": "vi"
+          },
+          {
+            "game_code": "420",
+            "image": "vivo_420_sic-bo_thumb.webp",
+            "product_id": "sicbo",
+            "game_name": "Sic Bo",
+            "lang": "vi"
+          },
+          {
+            "game_code": "425",
+            "image": "vivo_425_dragon-tiger-jade_thumb.webp",
+            "product_id": "dragontiger",
+            "game_name": "Dragon Tiger Jade",
+            "lang": "vi"
+          },
+          {
+            "game_code": "16",
+            "image": "vivo_16_oceania-vip-blackjack_thumb.webp",
+            "product_id": "blackjack",
+            "game_name": "Oceania VIP Blackjack",
+            "lang": "vi"
+          }
+        ]
+      },
+      "lcevo": {
+        "game_type": "live",
+        "mobile_orientation": [
+          "portrait"
+        ],
+        "tablet_orientation": [
+          "all"
+        ],
+        "desktop_orientation": [
+          "all"
+        ],
+        "force_landscape_viewport_on_ipad": null,
+        "open_in_new_tab_on_ios_safari_web": true,
+        "requires_session_guard": null,
+        "scaffold_controls": false,
+        "use_safe_area": true,
+        "load_stop_debounce_ms": null,
+        "provider_tag": "tag_provider_evolution.webp",
+        "provider_name": "EVO",
+        "games": [
+          {
+            "game_code": "baccarat",
+            "image": "lcevo_baccarat_baccarat-sieu-toc-a_thumb.webp",
+            "product_id": "leqhceumaq6qfoug",
+            "game_name": "Baccarat Siêu Tốc A",
+            "lang": "vi"
+          },
+          {
+            "game_code": "bacbo",
+            "image": "lcevo_bacbo_bac-bo_thumb.webp",
+            "product_id": "BacBo00000000001",
+            "game_name": "Bac Bo",
+            "lang": "vi"
+          },
+          {
+            "game_code": "sicbo",
+            "image": "lcevo_sicbo_sieu-tai-xiu_thumb.webp",
+            "product_id": "SuperSicBo000001",
+            "game_name": "Siêu Tài Xỉu",
+            "lang": "vi"
+          },
+          {
+            "game_code": "scalablebetstackerbj",
+            "image": "lcevo_scalablebetstackerbj_blackjack-chong-phinh-cuoc-vo-cuc_thumb.webp",
+            "product_id": "scabetstack00001",
+            "game_name": "Blackjack Chồng Phỉnh Cược Vô Cực",
+            "lang": "vi"
+          },
+          {
+            "game_code": "holdem",
+            "image": "lcevo_holdem_poker_thumb.webp",
+            "product_id": "HoldemTable00001",
+            "game_name": "Poker",
+            "lang": "vi"
+          },
+          {
+            "game_code": "fantan",
+            "image": "lcevo_fantan_fan-tan_thumb.webp",
+            "product_id": "FanTan0000000001",
+            "game_name": "Fan Tan",
+            "lang": "vi"
+          },
+          {
+            "game_code": "dragontiger",
+            "image": "lcevo_dragontiger_rong-ho_thumb.webp",
+            "product_id": "DragonTiger00001",
+            "game_name": "Rồng Hổ",
+            "lang": "vi"
+          },
+          {
+            "game_code": "roulette",
+            "image": "lcevo_roulette_roulette-tu-dong_thumb.webp",
+            "product_id": "48z5pjps3ntvqc1b",
+            "game_name": "Roulette Tự Động",
+            "lang": "vi"
+          },
+          {
+            "game_code": "moneywheel",
+            "image": "lcevo_moneywheel_imperial-quest_thumb.webp",
+            "product_id": "ImperialQuest001",
+            "game_name": "Imperial Quest",
+            "lang": "vi"
+          }
+        ]
+      }
+    }
+  },
+  "activity_log_casino_service_names": [
+    "slot",
+    "nổ hũ",
+    "no hu",
+    "cao thấp",
+    "cao thap",
+    "fish",
+    "casino",
+    "sexy",
+    "amb-vn",
+    "via",
+    "via-casino-vn",
+    "vivo",
+    "lcevo",
+    "evo",
+    "keno",
+    "chan",
+    "aviator",
+    "avenger",
+    "pirates",
+    "aquarium",
+    "momotaro",
+    "frankenstein",
+    "diamond",
+    "lode",
+    "roulette",
+    "baccarat",
+    "binh",
+    "xito",
+    "tienlen",
+    "lieng",
+    "sam",
+    "xocdia",
+    "phom",
+    "blackjack",
+    "chắn",
+    "chắn army",
+    "chan army",
+    "cờ úp",
+    "co up",
+    "bí ngô ma quái",
+    "bi ngo ma quai",
+    "bí ngô",
+    "bi ngo",
+    "siêu anh hùng",
+    "sieu anh hung",
+    "hải tặc",
+    "hai tac",
+    "cướp biển",
+    "cuop bien",
+    "bắn cá",
+    "ban ca",
+    "cá",
+    "ca",
+    "thủy cung",
+    "thuy cung",
+    "thần tài",
+    "than tai",
+    "ông đồ",
+    "ong do",
+    "ongdo",
+    "dragon ball",
+    "dragonball",
+    "dragonballs",
+    "dragon balls",
+    "na tra",
+    "tây du thần khí",
+    "tay du than khi",
+    "tứ thần thú",
+    "tu than thu",
+    "lân sinh phú quý",
+    "lan sinh phu quy",
+    "santa hậu đậu",
+    "santa hau dau",
+    "trên dưới",
+    "tren duoi",
+    "tài xỉu",
+    "tai xiu",
+    "kim cương",
+    "kim cuong",
+    "xèng",
+    "xeng",
+    "sun phụng",
+    "sun phung",
+    "phụng",
+    "phung",
+    "volta",
+    "sun rồng",
+    "sun rong",
+    "rồng",
+    "rong",
+    "sun rồng hổ",
+    "sun rong ho",
+    "rồng hổ",
+    "rong ho",
+    "đá gà",
+    "da ga",
+    "sicbo",
+    "sicbo tài phú",
+    "sicbo tai phu",
+    "live",
+    "bầu cua",
+    "bau cua",
+    "lộc thú",
+    "loc thu",
+    "tôm cua",
+    "tom cua",
+    "lắc",
+    "lac",
+    "lô đề",
+    "lo de",
+    "xổ số",
+    "xo so",
+    "lottery",
+    "tứ linh",
+    "tu linh",
+    "thủy tinh",
+    "thuy tinh",
+    "trực tuyến",
+    "truc tuyen",
+    "all-in or fold",
+    "xì dách",
+    "xi dach",
+    "mậu binh",
+    "mau binh",
+    "binh xập xám",
+    "binh xap xam",
+    "xì tố",
+    "xi to",
+    "tiến lên",
+    "tien len",
+    "pô ke",
+    "po ke",
+    "sâm lốc",
+    "sam loc",
+    "sâm",
+    "sam",
+    "xóc đĩa",
+    "xoc dia",
+    "phỏm",
+    "phom",
+    "tá lả",
+    "ta la",
+    "liêng",
+    "lieng",
+    "3 cây",
+    "ba cây",
+    "ba cay",
+    "kim tài",
+    "kim tai",
+    "hoàng gia",
+    "hoang gia",
+    "sun cá",
+    "sun ca",
+    "tài phú",
+    "tai phu",
+    "roulette 3d",
+    "777",
+    "revival",
+    "poker",
+    "poker aof",
+    "mini poker",
+    "tài xỉu mini",
+    "tai xiu mini",
+    "cảnh báo phissing idol",
+    "canh bao phissing idol"
+  ]
+}
