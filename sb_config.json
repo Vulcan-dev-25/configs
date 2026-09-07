@@ -1,6 +1,8 @@
 {
  "urlSetting": "https://gmwbui.sb21.net/api/v1/setting?agentId=",
  "sport_domain": "https://gmwbui.sb21.net/api/v1",
+ "video_domain": "https://iuvtr.sb21.net",
+ "virtual_video_domain": "https://vstrmt.sb21.online",
  "url_hs": "https://api.bakogai.com/gt-stats-be",
  "team": {
   "1925": 164,
