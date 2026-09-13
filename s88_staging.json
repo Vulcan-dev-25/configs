@@ -12,6 +12,8 @@
   "livechat_license": "https://secure.livechatinc.com/licence/16649625/v2/open_chat.cgi?unique_groups=1&groups=9",
   "rs_domain": "https://common-s88.sandboxg1.win/",
   "game_api_url": "https://api100.ezplace1.net/gameapi/public",
+  "lode_api_url": "https://api100.ezplace1.net",
+  "lode_ws_url": "wss://api100.ezplace1.net/lottery-websocket",
   "locale_suffix": "YA7uMc4H",
   "cache_prefix": "I786aaJw",
   "render_token": "KfgdF66T",
