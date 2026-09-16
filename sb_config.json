@@ -5,7 +5,7 @@
  "virtual_video_domain": "https://vstrmt.sb21.online",
  "url_hs": "https://api.bakogai.com/gt-stats-be",
  "league_alias_url": "https://raw.githubusercontent.com/Vulcan-dev-25/configs/main/league_alias.json",
- "league_alias_version": 1
+ "league_alias_version": 1,
  "team": {
   "1925": 164,
   "2053": 771,
