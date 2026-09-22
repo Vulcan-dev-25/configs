@@ -1,9 +1,9 @@
 {
   "api_domain": "https://shanghai-lie-alleged-autumn.trycloudflare.com",
   "min_patch_force_update": 5,
-  "config_version": 3,
+  "config_version": 4,
   "shorebird": {
-    "api_base_url": "https://shanghai-lie-alleged-autumn.trycloudflare.com/api/v1",
+    "api_base_url": "https://shanghai-lie-alleged-autumn.trycloudflare.com",
     "artifact_base_url": "https://shanghai-lie-alleged-autumn.trycloudflare.com/artifacts",
     "auth_url": "https://shanghai-lie-alleged-autumn.trycloudflare.com/auth",
     "track": "stable"
