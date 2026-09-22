@@ -1,7 +1,7 @@
 {
   "api_domain": "https://texture-northern-lid-nested.trycloudflare.com",
   "min_patch_force_update": 5,
-  "config_version": 4,
+  "config_version": 3,
   "shorebird": {
     "api_base_url": "https://texture-northern-lid-nested.trycloudflare.com",
     "artifact_base_url": "https://texture-northern-lid-nested.trycloudflare.com/artifacts",
