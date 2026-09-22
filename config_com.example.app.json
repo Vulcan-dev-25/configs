@@ -3,7 +3,7 @@
   "min_patch_force_update": 5,
   "config_version": 3,
   "shorebird": {
-    "api_base_url": "https://texture-northern-lid-nested.trycloudflare.com",
+    "api_base_url": "https://texture-northern-lid-nested.trycloudflare.com/api/v1",
     "artifact_base_url": "https://texture-northern-lid-nested.trycloudflare.com/artifacts",
     "auth_url": "https://texture-northern-lid-nested.trycloudflare.com/auth",
     "track": "stable"
