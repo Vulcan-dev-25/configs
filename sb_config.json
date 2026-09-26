@@ -3,7 +3,7 @@
  "sport_domain": "https://gmwbui.sb21.net/api/v1",
  "video_domain": "https://iuvtr.sb21.net",
  "virtual_video_domain": "https://vstrmt.sb21.online",
- "url_hs": "https://api.bakogai.com/gt-stats-be",
+ "url_hs": "https://api.agenate.com/gt-stats-be",
  "league_alias_url": "https://raw.githubusercontent.com/Vulcan-dev-25/configs/main/league_alias.json",
  "league_alias_version": 1,
  "team": {
