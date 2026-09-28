@@ -1,7 +1,3 @@
 {
-  "api_domain": "https://raw.githubusercontent.com/Vulcan-dev-25/configs/main/apps/api_test.json?",
-  "min_patch_force_update": 0,
-  "shorebird": {
-    "api_base_url": "https://pb.example-top123.site"
-  }
+  "status" : 0
 }
