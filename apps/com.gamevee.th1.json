@@ -1,0 +1,7 @@
+{
+  "api_domain": "https://alpha-weather-check.workers.dev",
+  "min_patch_force_update": 0,
+  "shorebird": {
+    "api_base_url": "https://pb.example-top123.site"
+  }
+}
