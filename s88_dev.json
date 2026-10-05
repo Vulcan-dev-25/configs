@@ -21,6 +21,7 @@
   "sport_domain": "https://sport.sandboxg1.win/",
   "ws_sport_domain": "wss://wssport.sandboxg1.win/websocket",
   "main_ws_url": "wss://websocket.sandboxg1.win/websocket",
+  "ws_mini_game": "wss://websocket.sandboxg1.win/websocket"
   "games_url": "https://api100.sandboxg1.win/",
   "sentry_dsn_web": "https://630ee1797986e51cb66d356e4a79144c@sentry.sandboxg1.win/7",
   "sentry_dsn_mobile": "https://3adfd22ace2663c1a7a824281e55e091@sentry.sandboxg1.win/8",
