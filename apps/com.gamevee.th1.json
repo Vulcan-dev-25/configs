@@ -1,7 +1,9 @@
 {
   "api_domain": "https://raw.githubusercontent.com/Vulcan-dev-25/configs/main/apps/api_test.json?",
-  "min_patch_force_update": 0,
-  "shorebird": {
-    "api_base_url": "https://newer-gratis-departmental-victor.trycloudflare.com"
+  "rs_domain": "https://common-s88.sandboxg1.win/",
+  "force_update": {
+    "min_version_code": 0,
+    "backup_android_url": "",
+    "backup_ios_url": ""
   }
 }
