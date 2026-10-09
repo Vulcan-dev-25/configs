@@ -1,0 +1,428 @@
+{
+  "version": 2,
+  "updated_at": "2026-10-09",
+  "sports": {
+    "1": {
+      "354": {
+        "name": "Vòng loại C1 Châu Âu",
+        "short": "Vòng loại C1"
+      },
+      "76": {
+        "name": "Ngoại hạng Anh",
+        "short": "NH Anh"
+      },
+      "23": {
+        "name": "Serie A",
+        "short": "Serie A"
+      },
+      "29": {
+        "name": "La Liga",
+        "short": "La Liga"
+      },
+      "681": {
+        "name": "UEFA Nations League",
+        "short": "ĐTQG Châu Âu"
+      },
+      "87": {
+        "name": "Bundesliga",
+        "short": "Đức"
+      },
+      "2634": {
+        "name": "Đấu trường",
+        "short": "Đấu trường"
+      },
+      "361": {
+        "name": "Copa Libertadores",
+        "short": "C1 Nam Mỹ"
+      },
+      "98": {
+        "name": "Primeira Liga",
+        "short": "BĐN"
+      },
+      "355": {
+        "name": "Vòng loại C2 Châu Âu",
+        "short": "Vòng loại C2"
+      },
+      "646": {
+        "name": "Serie A Brazil",
+        "short": "Brazil"
+      },
+      "81": {
+        "name": "Ligue 1",
+        "short": "Pháp"
+      },
+      "56": {
+        "name": "Ligue 2",
+        "short": "Pháp 2"
+      },
+      "435": {
+        "name": "Cúp Liên đoàn Anh",
+        "short": "Cúp LĐ Anh"
+      },
+      "110": {
+        "name": "VĐQG Argentina",
+        "short": "Argentina"
+      },
+      "14": {
+        "name": "VĐQG Colombia",
+        "short": "Colombia"
+      },
+      "1": {
+        "name": "Championship",
+        "short": "Championship"
+      },
+      "2251": {
+        "name": "EuroLeague (rổ)",
+        "short": "EuroLeague (rổ)"
+      },
+      "481": {
+        "name": "Veikkausliiga",
+        "short": "Phần Lan"
+      },
+      "42": {
+        "name": "Bundesliga 2",
+        "short": "Đức 2"
+      },
+      "8": {
+        "name": "Liga MX",
+        "short": "Mexico"
+      },
+      "53": {
+        "name": "Eredivisie",
+        "short": "Hà Lan"
+      },
+      "418": {
+        "name": "MLS",
+        "short": "Mỹ"
+      },
+      "3323": {
+        "name": "VĐQG Uruguay",
+        "short": "Uruguay A"
+      },
+      "723": {
+        "name": "Vòng loại C3 Châu Âu",
+        "short": "Vòng loại C3"
+      },
+      "648": {
+        "name": "Serie B Brazil",
+        "short": "Brazil 2"
+      },
+      "6216": {
+        "name": "FIFA ASEAN Cup",
+        "short": "FIFA ASEAN"
+      },
+      "576": {
+        "name": "Ykkösliiga",
+        "short": "Phần Lan 2"
+      },
+      "111": {
+        "name": "J2 League",
+        "short": "Nhật 2"
+      },
+      "21": {
+        "name": "K League 1",
+        "short": "Hàn Quốc"
+      },
+      "44": {
+        "name": "Expansión MX",
+        "short": "Mexico 2"
+      },
+      "220": {
+        "name": "Liga MX Femenil Nữ",
+        "short": "Mexico Nữ"
+      },
+      "54": {
+        "name": "Eerste Divisie",
+        "short": "Hà Lan 2"
+      },
+      "582": {
+        "name": "Eliteserien",
+        "short": "Na Uy"
+      },
+      "124": {
+        "name": "Super League",
+        "short": "Thụy Sĩ"
+      },
+      "38": {
+        "name": "Süper Lig",
+        "short": "Thổ Nhĩ Kỳ"
+      },
+      "511": {
+        "name": "USL Championship",
+        "short": "Mỹ 2"
+      },
+      "84": {
+        "name": "Giao hữu quốc tế",
+        "short": "GHQT"
+      },
+      "37": {
+        "name": "Giải Hạng 2 Anh",
+        "short": "Hạng 2 Anh"
+      },
+      "68": {
+        "name": "Copa Argentina",
+        "short": "Cúp Argentina"
+      },
+      "12": {
+        "name": "Primera Nacional",
+        "short": "Argentina 2"
+      },
+      "1777": {
+        "name": "Supercopa Argentina",
+        "short": "Siêu cúp Arg"
+      },
+      "661": {
+        "name": "CONCACAF Nations League",
+        "short": "ĐTQG Bắc Mỹ"
+      },
+      "2246": {
+        "name": "Estonia–Latvia League (rổ)",
+        "short": "Rổ Baltic"
+      },
+      "1762": {
+        "name": "Gulf Cup",
+        "short": "Cúp vùng Vịnh"
+      },
+      "143": {
+        "name": "VĐQG Paraguay",
+        "short": "Paraguay"
+      },
+      "93": {
+        "name": "La Liga 2",
+        "short": "TBN 2"
+      },
+      "1987": {
+        "name": "Vòng loại U21 Châu Âu",
+        "short": "U21 Châu Âu"
+      },
+      "88": {
+        "name": "VĐQG Uruguay",
+        "short": "Uruguay"
+      },
+      "656": {
+        "name": "Serie C Brazil",
+        "short": "Brazil 3"
+      },
+      "150": {
+        "name": "Colombia hạng 2",
+        "short": "Colombia 2"
+      },
+      "246": {
+        "name": "FA Trophy",
+        "short": "FA Trophy"
+      },
+      "206": {
+        "name": "Liga F Nữ",
+        "short": "TBN Nữ"
+      },
+      "294": {
+        "name": "Superettan",
+        "short": "Thụy Điển 2"
+      },
+      "2416": {
+        "name": "Giao hữu CLB",
+        "short": "GH CLB"
+      },
+      "2523": {
+        "name": "Adriatic League 2 (rổ)",
+        "short": "Rổ Adriatic Nữ"
+      },
+      "2624": {
+        "name": "Giao hữu CLB nữ",
+        "short": "GH CLB Nữ"
+      },
+      "2404": {
+        "name": "West Asia SL (rổ)",
+        "short": "Rổ Tây Á"
+      },
+      "149": {
+        "name": "Argentina hạng 3",
+        "short": "Argentina 3"
+      },
+      "310": {
+        "name": "Regionalliga",
+        "short": "Áo 3"
+      },
+      "460": {
+        "name": "Vysshaya Liga",
+        "short": "Belarus"
+      },
+      "706": {
+        "name": "Canadian Premier",
+        "short": "Canada"
+      },
+      "347": {
+        "name": "Primera B",
+        "short": "Chile 2"
+      },
+      "169": {
+        "name": "Giao hữu CLB",
+        "short": "GH CLB"
+      },
+      "205": {
+        "name": "Séc hạng 3",
+        "short": "Séc 3"
+      },
+      "107": {
+        "name": "Serie B Ecuador",
+        "short": "Ecuador 2"
+      },
+      "569": {
+        "name": "Kakkonen",
+        "short": "Phần Lan 3"
+      },
+      "177": {
+        "name": "Giao hữu trẻ quốc tế",
+        "short": "GH trẻ"
+      },
+      "693": {
+        "name": "OBOS-ligaen",
+        "short": "Na Uy 2"
+      },
+      "638": {
+        "name": "Toppserien Nữ",
+        "short": "Na Uy Nữ"
+      },
+      "262": {
+        "name": "Scottish Premiership",
+        "short": "Scotland"
+      },
+      "69": {
+        "name": "Segunda RFEF",
+        "short": "TBN 4"
+      },
+      "274": {
+        "name": "Thụy Sĩ hạng 3",
+        "short": "Thụy Sĩ 3"
+      },
+      "663": {
+        "name": "Uruguay hạng 2",
+        "short": "Uruguay 2"
+      },
+      "166": {
+        "name": "Algeria hạng 2",
+        "short": "Algeria 2"
+      },
+      "3884": {
+        "name": "Algeria U20",
+        "short": "Algeria U20"
+      },
+      "1789": {
+        "name": "Copa Bolivia",
+        "short": "Cúp Bolivia"
+      },
+      "687": {
+        "name": "Copa Chile",
+        "short": "Cúp Chile"
+      },
+      "40": {
+        "name": "EFL Trophy",
+        "short": "EFL Trophy"
+      },
+      "2060": {
+        "name": "Ykkösliiga",
+        "short": "Phần Lan 2"
+      },
+      "39": {
+        "name": "National",
+        "short": "Pháp 3"
+      },
+      "1670": {
+        "name": "Ghana Premier",
+        "short": "Ghana"
+      },
+      "4": {
+        "name": "Serie C",
+        "short": "Serie C"
+      },
+      "442": {
+        "name": "VĐQG Bờ Biển Ngà",
+        "short": "Bờ Biển Ngà"
+      },
+      "392": {
+        "name": "Nhật Bản Nữ hạng 2",
+        "short": "Nhật 2 Nữ"
+      },
+      "3222": {
+        "name": "Liga MX U21",
+        "short": "Mexico U21"
+      },
+      "1004": {
+        "name": "Liga TDP",
+        "short": "Mexico 4"
+      },
+      "303": {
+        "name": "Botola Pro",
+        "short": "Ma-rốc"
+      },
+      "1619": {
+        "name": "VĐQG New Zealand Nữ",
+        "short": "NZ Nữ"
+      },
+      "188": {
+        "name": "New Zealand hạng 2",
+        "short": "NZ 2"
+      },
+      "94": {
+        "name": "NPFL",
+        "short": "Nigeria"
+      },
+      "787": {
+        "name": "Na Uy hạng 3",
+        "short": "Na Uy 3"
+      },
+      "283": {
+        "name": "Ekstraliga Nữ",
+        "short": "Ba Lan Nữ"
+      },
+      "796": {
+        "name": "Scottish Challenge Cup",
+        "short": "Cúp Scotland"
+      },
+      "641": {
+        "name": "Slovakia hạng 3",
+        "short": "Slovakia 3"
+      },
+      "66": {
+        "name": "Primera Federación",
+        "short": "TBN 3"
+      },
+      "854": {
+        "name": "Segunda RFEF",
+        "short": "TBN 4"
+      },
+      "686": {
+        "name": "Thụy Sĩ hạng 3",
+        "short": "Thụy Sĩ 3"
+      },
+      "79": {
+        "name": "1. Lig",
+        "short": "Thổ Nhĩ Kỳ 2"
+      },
+      "1063": {
+        "name": "UAE hạng 2",
+        "short": "UAE 2"
+      },
+      "154": {
+        "name": "First Division",
+        "short": "Ireland 2"
+      },
+      "463": {
+        "name": "Panama hạng 2",
+        "short": "Panama 2"
+      },
+      "256": {
+        "name": "Slovenia hạng 2",
+        "short": "Slovenia 2"
+      },
+      "2119": {
+        "name": "eSoccer GG League (ảo)",
+        "short": "eSoccer (ảo)"
+      },
+      "5969": {
+        "name": "Giao hữu SRL (ảo)",
+        "short": "GH SRL (ảo)"
+      }
+    }
+  }
+}
