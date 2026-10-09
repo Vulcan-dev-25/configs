@@ -6,6 +6,8 @@
  "url_hs": "https://api.agenate.com/gt-stats-be",
  "league_alias_url": "https://raw.githubusercontent.com/Vulcan-dev-25/configs/main/league_alias.json",
  "league_alias_version": 1,
+ "league_alias_v2_url": "https://raw.githubusercontent.com/Vulcan-dev-25/configs/main/league_alias_v2.json",
+ "league_alias_v2_version": 2,
  "team": {
   "1925": 164,
   "2053": 771,
