@@ -1,5 +1,5 @@
 {
-  "api_domain": "https://raw.githubusercontent.com/Vulcan-dev-25/configs/main/apps/api_test.json?",
+  "api_domain": "https://api.ezplace1.net/ca/res?command=",
   "env": "staging",
   "rs_domain": "https://common-s88.sandboxg1.win/"
 }
