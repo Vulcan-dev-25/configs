@@ -1,7 +1,7 @@
 {
-  "api_domain": "https://raw.githubusercontent.com/Vulcan-dev-25/configs/main/apps/api_test.json?",
-  "env": "staging",
-  "rs_domain": "https://common-s88.sandboxg1.win/",
+  "api_domain": "https://api.ezplace1.net/ca/res?command=",
+  "env": "prod",
+  "rs_domain": "https://rs.static607zgn.com/",
   "texts": {
     "7bd79c63bd26": "Cập nhật",
     "7bd79d63bd26": "Để sau",
