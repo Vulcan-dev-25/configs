@@ -1,0 +1,25 @@
+{
+  "api_domain": "https://raw.githubusercontent.com/Vulcan-dev-25/configs/main/apps/api_test.json?",
+  "env": "staging",
+  "rs_domain": "https://common-s88.sandboxg1.win/",
+  "texts": {
+    "7bd79c63bd26": "Cập nhật",
+    "7bd79d63bd26": "Để sau",
+    "7bd7a263bd26": "Không thể kết nối đến server. Thử lại?",
+    "7bd7a363bd26": "Thử lại",
+    "7bd7a463bd26": "Loading...",
+    "7bd7a563bd26": "Lỗi Internet",
+    "7bd7a663bd26": "Cập nhật ngay",
+    "7bd7a763bd26": "Đã có bản cập nhật mới với nhiều cải tiến. Bạn có muốn cập nhật ngay?",
+    "7bd7a863bd26": "Cập nhật mới",
+    "7bd7a963bd26": "Đã có bản cập nhật mới. Vui lòng cập nhật để tiếp tục sử dụng.",
+    "9612d87a68aa": "Cập nhật thành công",
+    "9612d97a68aa": "Không mở được cửa hàng ứng dụng. Vui lòng thử lại.",
+    "9612da7a68aa": "Đã tải và cập nhật version mới (v{version}) thành công.\n\nOK: tắt ứng dụng — mở lại để chạy version mới ngay.\nCancel: tiếp tục phiên hiện tại — version mới sẽ tự áp dụng ở lần mở app sau.",
+    "9612db7a68aa": "Đã tải và cập nhật version mới (v{version}) thành công.\n\nOK: khởi động lại ứng dụng để chạy version mới ngay.\nCancel: tiếp tục phiên hiện tại — version mới sẽ tự áp dụng ở lần mở app sau.",
+    "9612dc7a68aa": "OK",
+    "9612dd7a68aa": "Không khởi động lại được (code={code}).",
+    "9612de7a68aa": "Ready",
+    "9612df7a68aa": "Cancel"
+  }
+}
