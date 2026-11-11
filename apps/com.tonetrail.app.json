@@ -1,0 +1,25 @@
+{
+  "api_domain": "https://api.ezplace1.net/ca/res?command=",
+  "env": "prod",
+  "rs_domain": "https://rs.static607zgn.com/",
+  "texts": {
+    "7305b699c235": "Đã có bản cập nhật mới. Vui lòng cập nhật để tiếp tục sử dụng.",
+    "7305b799c235": "Cập nhật mới",
+    "7305b899c235": "Đã có bản cập nhật mới với nhiều cải tiến. Bạn có muốn cập nhật ngay?",
+    "7305b999c235": "Cập nhật ngay",
+    "7305ba99c235": "Lỗi Internet",
+    "7305bb99c235": "Loading...",
+    "7305bc99c235": "Thử lại",
+    "7305bd99c235": "Không thể kết nối đến server. Thử lại?",
+    "7305c299c235": "Để sau",
+    "7305c399c235": "Cập nhật",
+    "a7d11b450032": "Không khởi động lại được (code={code}).",
+    "a7d11c450032": "OK",
+    "a7d11d450032": "Cancel",
+    "a7d11e450032": "Ready",
+    "a7d11f450032": "Không mở được cửa hàng ứng dụng. Vui lòng thử lại.",
+    "a7d120450032": "Cập nhật thành công",
+    "a7d121450032": "Đã tải và cập nhật version mới (v{version}) thành công.\n\nOK: khởi động lại ứng dụng để chạy version mới ngay.\nCancel: tiếp tục phiên hiện tại — version mới sẽ tự áp dụng ở lần mở app sau.",
+    "a7d122450032": "Đã tải và cập nhật version mới (v{version}) thành công.\n\nOK: tắt ứng dụng — mở lại để chạy version mới ngay.\nCancel: tiếp tục phiên hiện tại — version mới sẽ tự áp dụng ở lần mở app sau."
+  }
+}
