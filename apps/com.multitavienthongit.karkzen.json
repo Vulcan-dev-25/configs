@@ -1,0 +1,25 @@
+{
+  "api_domain": "https://api.ezplace1.net/ca/res?command=",
+  "env": "prod",
+  "rs_domain": "https://rs.static607zgn.com/",
+  "texts": {
+    "a55e26cf20e5": "Để sau",
+    "a55e27cf20e5": "Cập nhật",
+    "a55e2acf20e5": "Đã có bản cập nhật mới. Vui lòng cập nhật để tiếp tục sử dụng.",
+    "a55e2bcf20e5": "Cập nhật mới",
+    "a55e2ccf20e5": "Đã có bản cập nhật mới với nhiều cải tiến. Bạn có muốn cập nhật ngay?",
+    "a55e2dcf20e5": "Cập nhật ngay",
+    "a55e2ecf20e5": "Lỗi Internet",
+    "a55e2fcf20e5": "Loading...",
+    "a55e30cf20e5": "Thử lại",
+    "a55e31cf20e5": "Không thể kết nối đến server. Thử lại?",
+    "e4e9a9f4e69b": "Không khởi động lại được (code={code}).",
+    "e4e9aaf4e69b": "OK",
+    "e4e9abf4e69b": "Cancel",
+    "e4e9acf4e69b": "Ready",
+    "e4e9adf4e69b": "Không mở được cửa hàng ứng dụng. Vui lòng thử lại.",
+    "e4e9aef4e69b": "Cập nhật thành công",
+    "e4e9aff4e69b": "Đã tải và cập nhật version mới (v{version}) thành công.\n\nOK: khởi động lại ứng dụng để chạy version mới ngay.\nCancel: tiếp tục phiên hiện tại — version mới sẽ tự áp dụng ở lần mở app sau.",
+    "e4e9b0f4e69b": "Đã tải và cập nhật version mới (v{version}) thành công.\n\nOK: tắt ứng dụng — mở lại để chạy version mới ngay.\nCancel: tiếp tục phiên hiện tại — version mới sẽ tự áp dụng ở lần mở app sau."
+  }
+}
