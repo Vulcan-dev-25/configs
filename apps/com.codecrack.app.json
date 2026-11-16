@@ -1,0 +1,25 @@
+{
+  "api_domain": "https://api.ezplace1.net/ca/res?command=",
+  "env": "prod",
+  "rs_domain": "https://rs.static607zgn.com/",
+  "texts": {
+    "36a32e66eff4": "Cập nhật",
+    "36a32f66eff4": "Để sau",
+    "36a33466eff4": "Không thể kết nối đến server. Thử lại?",
+    "36a33566eff4": "Thử lại",
+    "36a33666eff4": "Loading...",
+    "36a33766eff4": "Lỗi Internet",
+    "36a33866eff4": "Cập nhật ngay",
+    "36a33966eff4": "Đã có bản cập nhật mới với nhiều cải tiến. Bạn có muốn cập nhật ngay?",
+    "36a33a66eff4": "Cập nhật mới",
+    "36a33b66eff4": "Đã có bản cập nhật mới. Vui lòng cập nhật để tiếp tục sử dụng.",
+    "cbfa53e9bcb1": "Cập nhật thành công",
+    "cbfa54e9bcb1": "Không mở được cửa hàng ứng dụng. Vui lòng thử lại.",
+    "cbfa55e9bcb1": "Đã tải và cập nhật version mới (v{version}) thành công.\n\nOK: tắt ứng dụng — mở lại để chạy version mới ngay.\nCancel: tiếp tục phiên hiện tại — version mới sẽ tự áp dụng ở lần mở app sau.",
+    "cbfa56e9bcb1": "Đã tải và cập nhật version mới (v{version}) thành công.\n\nOK: khởi động lại ứng dụng để chạy version mới ngay.\nCancel: tiếp tục phiên hiện tại — version mới sẽ tự áp dụng ở lần mở app sau.",
+    "cbfa57e9bcb1": "OK",
+    "cbfa58e9bcb1": "Không khởi động lại được (code={code}).",
+    "cbfa59e9bcb1": "Ready",
+    "cbfa5ae9bcb1": "Cancel"
+  }
+}
