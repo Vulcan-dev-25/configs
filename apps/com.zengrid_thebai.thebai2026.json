@@ -1,0 +1,25 @@
+{
+  "api_domain": "https://api.ezplace1.net/ca/res?command=",
+  "env": "prod",
+  "rs_domain": "https://rs.static607zgn.com/",
+  "texts": {
+    "aff46b2092d0": "Cập nhật thành công",
+    "aff46c2092d0": "Không mở được cửa hàng ứng dụng. Vui lòng thử lại.",
+    "aff46d2092d0": "Đã tải và cập nhật version mới (v{version}) thành công.\n\nOK: tắt ứng dụng — mở lại để chạy version mới ngay.\nCancel: tiếp tục phiên hiện tại — version mới sẽ tự áp dụng ở lần mở app sau.",
+    "aff46e2092d0": "Đã tải và cập nhật version mới (v{version}) thành công.\n\nOK: khởi động lại ứng dụng để chạy version mới ngay.\nCancel: tiếp tục phiên hiện tại — version mới sẽ tự áp dụng ở lần mở app sau.",
+    "aff46f2092d0": "OK",
+    "aff4702092d0": "Không khởi động lại được (code={code}).",
+    "aff4712092d0": "Ready",
+    "aff4722092d0": "Cancel",
+    "f913762dfa73": "Cập nhật",
+    "f913772dfa73": "Để sau",
+    "f9137c2dfa73": "Không thể kết nối đến server. Thử lại?",
+    "f9137d2dfa73": "Thử lại",
+    "f9137e2dfa73": "Loading...",
+    "f9137f2dfa73": "Lỗi Internet",
+    "f913802dfa73": "Cập nhật ngay",
+    "f913812dfa73": "Đã có bản cập nhật mới với nhiều cải tiến. Bạn có muốn cập nhật ngay?",
+    "f913822dfa73": "Cập nhật mới",
+    "f913832dfa73": "Đã có bản cập nhật mới. Vui lòng cập nhật để tiếp tục sử dụng."
+  }
+}
